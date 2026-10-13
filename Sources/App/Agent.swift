@@ -48,6 +48,13 @@ final class Agent: NSObject, NSApplicationDelegate {
         DistributedNotificationCenter.default().addObserver(forName: .init("dev.stretchbud.now"), object: nil, queue: .main) { [weak self] _ in
             self?.breakNow()
         }
+        // `stretchbud pause|resume` wrote state.json; pick the new pause up from there.
+        DistributedNotificationCenter.default().addObserver(forName: .init("dev.stretchbud.pause"), object: nil, queue: .main) { [weak self] _ in
+            guard let self else { return }
+            let until = self.store.loadState()?.scheduler.pausedUntil
+            self.overlay.close(.ended)
+            self.pause(until.map { $0 > Date() ? $0 : nil } ?? nil)
+        }
 
         let t = DispatchSource.makeTimerSource(queue: .main)
         t.schedule(deadline: .now() + 1, repeating: tickSec, leeway: .seconds(1))
@@ -125,6 +132,7 @@ final class Agent: NSObject, NSApplicationDelegate {
 
     @objc private func pauseHour() { pause(Date().addingTimeInterval(3600)) }
     @objc private func pauseToday() { pause(Calendar.current.startOfDay(for: Date()).addingTimeInterval(86400 + 6 * 3600)) }
+    @objc private func pauseOff() { pause(.distantFuture) }
     @objc private func resume() { pause(nil) }
     private func pause(_ until: Date?) {
         scheduler.pause(until: until)
@@ -160,6 +168,7 @@ final class Agent: NSObject, NSApplicationDelegate {
         if paused { add(m, "Resume", #selector(resume)) } else {
             add(m, "Pause 1 hour", #selector(pauseHour))
             add(m, "Pause until tomorrow", #selector(pauseToday))
+            add(m, "Pause until I resume", #selector(pauseOff))
         }
         m.addItem(.separator())
         add(m, "Open data folder", #selector(openData))

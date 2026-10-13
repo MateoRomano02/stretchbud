@@ -199,7 +199,10 @@ struct Scheduler {
         if plan.kind == .vo2 { state.vo2Today += 1 }
     }
 
-    mutating func pause(until: Date?) { state.pausedUntil = until }
+    mutating func pause(until: Date?) {
+        state.pausedUntil = until
+        state.headsUpUntil = nil
+    }
 
     private mutating func resetAfterBreak(kind: BreakKind, water: Bool) {
         state.sinceMicro = 0
@@ -220,5 +223,19 @@ struct Scheduler {
             state.walksToday = 0
             state.vo2Today = 0
         }
+    }
+}
+
+/// Turns "1h", "90m", "tomorrow" or "off" into the moment a pause ends. "tomorrow" means 06:00
+/// the next day; "off" means until resumed by hand. Returns nil for anything else.
+func pauseEnd(_ arg: String, now: Date, calendar: Calendar = .current) -> Date? {
+    let a = arg.lowercased()
+    if a == "off" { return .distantFuture }
+    if a == "tomorrow" { return calendar.startOfDay(for: now).addingTimeInterval(86400 + 6 * 3600) }
+    guard let unit = a.last, let n = Double(a.dropLast()), n > 0 else { return nil }
+    switch unit {
+    case "h": return now.addingTimeInterval(n * 3600)
+    case "m": return now.addingTimeInterval(n * 60)
+    default: return nil
     }
 }

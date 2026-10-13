@@ -4,7 +4,7 @@ A tiny macOS menu bar app that notices how long you have been at the keyboard an
 
 It is mandatory but kind. It waits for a natural pause instead of cutting you off mid-sentence, warns you 30 seconds ahead, lets you say "Later" twice, and never interrupts a call.
 
-![stretchbud showing a bodyweight squat](docs/screenshot.png)
+![stretchbud demo](docs/demo.gif)
 
 ## Why another break reminder
 
@@ -44,11 +44,16 @@ make install
 This builds the app with `swiftc`, installs it in `~/.local`, and starts it at login with a LaunchAgent. Look for 🌱 in the menu bar. It asks for no permissions.
 
 ```sh
-stretchbud now     # take a break now
-stretchbud end     # close the current break
-stretchbud demo    # try a break without waiting
-make uninstall     # stop and remove it (your data folder is kept)
+stretchbud now              # take a break now
+stretchbud end              # close the current break
+stretchbud demo             # try a break without waiting
+stretchbud pause 1h         # also: 90m, tomorrow (until 06:00), off (until you resume)
+stretchbud resume
+stretchbud status
+make uninstall              # stop and remove it (your data folder is kept)
 ```
+
+The same pauses are one click away in the 🌱 menu: Pause 1 hour, Pause until tomorrow, Pause until I resume, Resume.
 
 Try the figure in a browser without installing anything: open `web/index.html?demo`.
 

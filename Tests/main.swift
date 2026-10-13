@@ -274,5 +274,29 @@ do {
     check(c?.microEveryMin == 25 && c?.vo2PerDay == 2, "old config merges with new defaults")
 }
 
+// Pause arguments.
+do {
+    var cal = Calendar(identifier: .gregorian)
+    cal.timeZone = TimeZone(identifier: "UTC")!
+    check(pauseEnd("1h", now: t0) == t0.addingTimeInterval(3600), "pause 1h")
+    check(pauseEnd("90m", now: t0) == t0.addingTimeInterval(5400), "pause 90m")
+    check(pauseEnd("off", now: t0) == .distantFuture, "pause off is until resumed")
+    let tom = pauseEnd("tomorrow", now: t0, calendar: cal)!
+    check(cal.component(.hour, from: tom) == 6 && tom > t0 && tom.timeIntervalSince(t0) <= 30 * 3600, "pause tomorrow ends 06:00 next day")
+    check(pauseEnd("soon", now: t0) == nil && pauseEnd("0h", now: t0) == nil, "bad pause args rejected")
+}
+
+// Pausing during a heads-up cancels it; resuming does not start a break at once.
+do {
+    var s = Scheduler()
+    _ = work(&s, from: t0, minutes: 29.9)
+    let ds = work(&s, from: t0.addingTimeInterval(29.9 * 60), minutes: 0.2, appSwitchAgo: 10)
+    check(firstHeadsUp(ds) != nil, "heads-up before pause")
+    s.pause(until: t0.addingTimeInterval(3600))
+    check(s.state.headsUpUntil == nil, "pause clears the heads-up")
+    let during = work(&s, from: t0.addingTimeInterval(31 * 60), minutes: 20, appSwitchAgo: 10)
+    check(during.isEmpty, "nothing fires while paused")
+}
+
 print("\(count - failures)/\(count) checks passed")
 exit(failures == 0 ? 0 : 1)

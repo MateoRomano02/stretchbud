@@ -43,6 +43,14 @@ final class Store {
         try? JSONEncoder().encode(s).write(to: stateURL, options: .atomic)
     }
 
+    /// Sets or clears the pause in state.json directly, for when the agent is not running.
+    func writePause(until: Date?) {
+        var saved = loadState() ?? Saved(scheduler: SchedulerState(), lastUsed: [:], completions: nil)
+        saved.scheduler.pausedUntil = until
+        saved.scheduler.headsUpUntil = nil
+        save(saved)
+    }
+
     /// Append-only log of what happened: shown, done, later, skipped, natural breaks.
     func log(_ event: String, _ extra: [String: Any] = [:]) {
         var row: [String: Any] = ["t": Int(Date().timeIntervalSince1970), "ev": event]

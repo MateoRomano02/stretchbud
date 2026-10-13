@@ -22,6 +22,33 @@ case "end":
 case "now":
     post("dev.stretchbud.now")
     exit(0)
+case "pause", "resume":
+    let store = Store()
+    var until: Date?
+    if args[0] == "pause" {
+        guard let u = pauseEnd(args.count > 1 ? args[1] : "1h", now: Date()) else {
+            print("usage: stretchbud pause [1h|90m|tomorrow|off]")
+            exit(2)
+        }
+        until = u
+    }
+    store.writePause(until: until)
+    store.log(until == nil ? "resume" : "pause", ["from": "cli"])
+    post("dev.stretchbud.pause")
+    if let u = until {
+        print(u == .distantFuture ? "paused until you run: stretchbud resume" : "paused until \(DateFormatter.localizedString(from: u, dateStyle: .short, timeStyle: .short))")
+    } else {
+        print("resumed")
+    }
+    exit(0)
+case "status":
+    let st = Store().loadState()?.scheduler
+    if let p = st?.pausedUntil, p > Date() {
+        print(p == .distantFuture ? "paused until resumed" : "paused until \(DateFormatter.localizedString(from: p, dateStyle: .short, timeStyle: .short))")
+    } else {
+        print("active")
+    }
+    exit(0)
 case "probe":
     let a = Activity()
     print("idle_sec=\(String(format: "%.1f", Activity.idleSeconds())) camera=\(Activity.cameraInUse()) mic=\(Activity.micInUse()) locked=\(Activity.sessionLocked()) meeting=\(a.inMeeting()) frontmost=\(a.frontmostBundle ?? "-")")
@@ -50,6 +77,6 @@ case nil, "run":
     app.delegate = agent
     app.run()
 default:
-    print("usage: stretchbud [run|now|end|probe|demo <exercise-id>...]")
+    print("usage: stretchbud [run|now|end|pause [1h|90m|tomorrow|off]|resume|status|probe|demo <exercise-id>...]")
     exit(2)
 }
