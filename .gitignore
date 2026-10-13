@@ -5,3 +5,4 @@ research/scratch/
 node_modules/
 *.o
 .gstack/
+.runtime-data/
