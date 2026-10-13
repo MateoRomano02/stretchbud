@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "vo2-stair-moderate",
+    "name": "Brisk stair climb (moderate start)",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "stairs",
+    "duration_reps": "1 ascent of 1-3 flights (about 1-2 min) at 'can talk, not sing' pace",
+    "steps": [
+      "Go to a stairwell and hold the rail. Warm up with 30 s of easy walking.",
+      "Climb at a brisk steady pace, whole foot on each step; you should be able to talk but not sing.",
+      "Walk down slowly with a hand on the rail.",
+      "Rest until you breathe normally (1-2 min). Week 1: one ascent; add one ascent per week up to 3 (adapted from the Boreham ramp, app-chosen)."
+    ],
+    "key_cue": "Brisk, not breathless: you can still talk.",
+    "common_mistake": "Taking two steps at a time, looking at the phone, rushing the way down.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "Moderate-intensity entry level; Boreham 2005 (RCT n=15, young women) is the only sourced ramp (1 to 5 ascents/day over 8 weeks, ~2 min each, 90 steps/min, VO2max +17.1% vs controls). Talk test per CDC/NHS. The ramp is borrowed for progression only; the app's flight count is app-chosen.",
+    "sources": [
+      {
+        "title": "Boreham et al. 2005, Br J Sports Med: Training effects of short bouts of stair climbing on cardiorespiratory fitness, blood lipids and homocysteine in sedentary young women",
+        "url": "https://doi.org/10.1136/bjsm.2002.001131",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 16118293); RCT n=15 (8 stair, 7 control), 8 wk, 1 ascent/day (wk 1) rising to 5/day (wk 7-8), 199 steps, 90 steps/min, ~2 min per ascent, 5 d/wk; VO2max +17.1% vs controls (P<0.05)"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      },
+      {
+        "title": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: talk-test definitions; 75 min vigorous ~ 150 min moderate; speak to GP first if not exercised for some time or medical conditions; stair climbing and skipping listed as vigorous"
+      },
+      {
+        "title": "Riebe et al. 2015, Med Sci Sports Exerc 47(11): Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+        "url": "https://doi.org/10.1249/MSS.0000000000000664",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26473759): algorithm uses current activity level, signs/symptoms or known CV/metabolic/renal disease, desired intensity; full text not read"
+      }
+    ],
+    "contraindications_safety": "Falls risk on stairs: rail, no phone, dry stairs and sensible shoes. Avoid with knee/hip pain, vertigo or balance problems. Stop at once and do not resume that day with chest pain or pressure, unusual breathlessness, palpitations or a racing/irregular heartbeat, dizziness, light-headedness or nausea; seek urgent care if it does not settle.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 1,
+    "family": "vo2-stairs"
+  },
+  {
+    "id": "vo2-stair-burst",
+    "name": "Stair burst (vigorous, 20-60 s)",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "stairs",
+    "duration_reps": "1 burst of 20-60 s of fast climbing; 2-3 bursts/day spaced 1+ hours apart; 3 days/week; progress over weeks",
+    "steps": [
+      "Only after 1-2 weeks of the moderate stair climb and only if you passed the screen.",
+      "Warm up 30 s of easy walking, hand near the rail.",
+      "Climb fast for 20-60 s (about 1-3 flights) until you can say only a few words; do not sprint two steps at a time.",
+      "Walk down slowly, rail in hand, and rest until breathing is normal. Do not stack bursts back-to-back."
+    ],
+    "key_cue": "Fast enough that you can only say a few words, and always on the rail.",
+    "common_mistake": "All-out sprinting on stairs; skipping steps; doing it in smart shoes or on wet stairs.",
+    "evidence_level": "weak",
+    "evidence_note": "Trial-backed minimum: Jenkins 2019 (RCT, sedentary young adults, n=12/arm: 3 vigorous ascents of 60 steps per day, 1-4 h apart, 3 d/wk, 6 wk; VO2peak higher vs control P=0.003, gain 'modest'). Allison 2017 (3x20 s all-out ascents, 3 d/wk, 6 wk: +12% VO2peak, n=12; 3x60 s: +7%, n=11; young women only). Meta-analytic support (BJSM 2025/26, 11 RCTs n=414, g=1.37, moderate certainty, I2=71%) is for supervised, mostly young adults. Babir 2026 (real-world, 58 y, type 2 diabetes, n=69, 12 wk) found NO difference in estimated VO2max. A single burst does not raise VO2max; any effect needs weeks of repetition.",
+    "sources": [
+      {
+        "title": "Jenkins et al. 2019, Appl Physiol Nutr Metab 44(6):681-684: Do stair climbing exercise 'snacks' improve cardiorespiratory fitness?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30649897/",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 30649897); RCT, sedentary young adults, n=12 per arm, 3 vigorous ascents/day of a 3-flight 60-step stairwell, 1-4 h apart, 3 d/wk, 6 wk; VO2peak higher vs control P=0.003; magnitude not in abstract ('modest')"
+      },
+      {
+        "title": "Allison et al. 2017, Med Sci Sports Exerc: Brief intense stair climbing improves cardiorespiratory fitness",
+        "url": "https://doi.org/10.1249/mss.0000000000001188",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 28009784); 31 sedentary women; 3x20 s all-out stair ascent, 3 d/wk, 6 wk: VO2peak +12% (~1 MET, n=12, P=0.002); 3x60 s one-flight protocol: +7% (n=11, P=0.01); no control group mentioned in abstract"
+      },
+      {
+        "title": "Rodriguez et al. 2025/2026, Br J Sports Med 60(2):133: Effect of exercise snacks on fitness and cardiometabolic health in physically inactive individuals: systematic review and meta-analysis",
+        "url": "https://doi.org/10.1136/bjsports-2025-110027",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 41057224); 11 RCTs, n=414; cardiorespiratory fitness g=1.37 (95% CI 0.58-2.17), I2=71.4%, k=6, MODERATE certainty; no effect on strength, BP, lipids, body composition; bjsm.bmj.com page returned 403"
+      },
+      {
+        "title": "Babir et al. 2026, Diabetes Obes Metab: Exercise snacks are feasible ... adults living with non-insulin treated type 2 diabetes: a randomised trial",
+        "url": "https://doi.org/10.1111/dom.71052",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 42502209); n=69, mean age 58, 12 wk, 4x1 min vigorous bouts >=5 d/wk vs mobility control; RPE 5.7 (0-10), peak HR 73% age-predicted max; NO between-group difference in estimated VO2max or HbA1c; 30-s sit-to-stand +1.9 reps (0.3-3.4)"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      },
+      {
+        "title": "Riebe et al. 2015, Med Sci Sports Exerc 47(11): Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+        "url": "https://doi.org/10.1249/MSS.0000000000000664",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26473759): algorithm uses current activity level, signs/symptoms or known CV/metabolic/renal disease, desired intensity; full text not read"
+      },
+      {
+        "title": "IDEA Fitness: Getting to the heart of pre-exercise screening (summary of the ACSM 2015 algorithm)",
+        "url": "https://www.ideafit.com/getting-to-the-heart-of-pre-exercise-screening",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: non-exercisers without disease/symptoms need no clearance, light-to-moderate intensity recommended, progress gradually; symptoms list quoted; 'regular exercise' = planned structured moderate activity >=30 min on >=3 d/wk for >=3 months; vigorous = >=60% HRR, RPE >=14 (6-20 scale)"
+      }
+    ],
+    "contraindications_safety": "Vigorous mode is for people who passed the in-app screen: no known heart, metabolic (e.g. diabetes) or kidney disease and none of these signs or symptoms: chest, neck, jaw or arm pain/discomfort; breathlessness at rest or with mild exertion; dizziness or fainting; unusual fatigue or breathlessness with usual activities (ACSM 2015 list, IDEA summary). If any applies, ask a clinician first. Not for: pregnancy beyond advice from a clinician, uncontrolled high blood pressure, knee/hip problems, vertigo, balance problems, or an acute illness. Use shoes with grip. Stop at once and do not resume that day with chest pain or pressure, unusual breathlessness, palpitations or a racing/irregular heartbeat, dizziness, light-headedness or nausea; seek urgent care if it does not settle.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 3,
+    "family": "vo2-stairs"
+  },
+  {
+    "id": "vo2-brisk-walk-intervals",
+    "name": "Brisk walk intervals (3 x 1 min)",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "standing/walking, corridor or outdoors",
+    "duration_reps": "3 x (60 s brisk + 60 s easy)",
+    "steps": [
+      "Walk at an easy pace for 30 s to warm up.",
+      "Walk briskly for 60 s: heart rate and breathing clearly up, you can talk but not sing.",
+      "Walk easy for 60 s.",
+      "Repeat 3 times, then walk easy for 30 s."
+    ],
+    "key_cue": "Brisk is 'talk, not sing'.",
+    "common_mistake": "Starting too fast; stopping suddenly.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "Moderate-intensity entry level for people new to exercise (ACSM 2015: inactive people without disease/symptoms start light-to-moderate and progress gradually). Interval structure is app-chosen: no VO2 trial of this exact protocol was found. NHS lists brisk walking as moderate.",
+    "sources": [
+      {
+        "title": "Riebe et al. 2015, Med Sci Sports Exerc 47(11): Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+        "url": "https://doi.org/10.1249/MSS.0000000000000664",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26473759): algorithm uses current activity level, signs/symptoms or known CV/metabolic/renal disease, desired intensity; full text not read"
+      },
+      {
+        "title": "IDEA Fitness: Getting to the heart of pre-exercise screening (summary of the ACSM 2015 algorithm)",
+        "url": "https://www.ideafit.com/getting-to-the-heart-of-pre-exercise-screening",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: non-exercisers without disease/symptoms need no clearance, light-to-moderate intensity recommended, progress gradually; symptoms list quoted; 'regular exercise' = planned structured moderate activity >=30 min on >=3 d/wk for >=3 months; vigorous = >=60% HRR, RPE >=14 (6-20 scale)"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      },
+      {
+        "title": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: talk-test definitions; 75 min vigorous ~ 150 min moderate; speak to GP first if not exercised for some time or medical conditions; stair climbing and skipping listed as vigorous"
+      }
+    ],
+    "contraindications_safety": "Comfortable shoes; mind trip hazards. Stop at once and do not resume that day with chest pain or pressure, unusual breathlessness, palpitations or a racing/irregular heartbeat, dizziness, light-headedness or nausea; seek urgent care if it does not settle.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 1,
+    "family": "vo2-walk"
+  },
+  {
+    "id": "vo2-fast-march",
+    "name": "Fast march / low-impact high knees (30 s)",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "standing, desk side",
+    "duration_reps": "2-3 x 30 s fast march with 60 s easy between, 1-3 times/day",
+    "steps": [
+      "Stand tall next to the desk, one hand free to touch it for balance.",
+      "March quickly, knees to about hip height, arms swinging, feet landing softly (no jumping).",
+      "Keep going 30 s; aim to be able to say only a few words (vigorous) or full sentences with effort (moderate, start here).",
+      "Slow to an easy march for 60 s; repeat 2-3 times."
+    ],
+    "key_cue": "Fast, tall and quiet: no jumping.",
+    "common_mistake": "Stomping loudly, leaning back, holding the breath.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "EXTRAPOLATION: no VO2 trial of in-place marching was found. The rationale is that exercise snacks are defined as short (<=1 min) vigorous bouts (Islam 2022 definition via search snippet; Jones 2024 scoping review) and VILPA is observational. Intensity is judged with the talk test.",
+    "sources": [
+      {
+        "title": "Jones et al. 2024, Sports Med: Exercise Snacks and Other Forms of Intermittent Physical Activity for Improving Health in Adults and Older Adults: scoping review",
+        "url": "https://doi.org/10.1007/s40279-023-01983-1",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 38190022); 32 records; 'feasible and appeared safe'; 'modest effects on improving cardiorespiratory fitness'; evidence mostly small studies"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      },
+      {
+        "title": "Riebe et al. 2015, Med Sci Sports Exerc 47(11): Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+        "url": "https://doi.org/10.1249/MSS.0000000000000664",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26473759): algorithm uses current activity level, signs/symptoms or known CV/metabolic/renal disease, desired intensity; full text not read"
+      },
+      {
+        "title": "IDEA Fitness: Getting to the heart of pre-exercise screening (summary of the ACSM 2015 algorithm)",
+        "url": "https://www.ideafit.com/getting-to-the-heart-of-pre-exercise-screening",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: non-exercisers without disease/symptoms need no clearance, light-to-moderate intensity recommended, progress gradually; symptoms list quoted; 'regular exercise' = planned structured moderate activity >=30 min on >=3 d/wk for >=3 months; vigorous = >=60% HRR, RPE >=14 (6-20 scale)"
+      }
+    ],
+    "contraindications_safety": "Vigorous mode is for people who passed the in-app screen: no known heart, metabolic (e.g. diabetes) or kidney disease and none of these signs or symptoms: chest, neck, jaw or arm pain/discomfort; breathlessness at rest or with mild exertion; dizziness or fainting; unusual fatigue or breathlessness with usual activities (ACSM 2015 list, IDEA summary). If any applies, ask a clinician first. Skip with ankle, knee or hip pain or balance problems. Stop at once and do not resume that day with chest pain or pressure, unusual breathlessness, palpitations or a racing/irregular heartbeat, dizziness, light-headedness or nausea; seek urgent care if it does not settle.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 2,
+    "family": "vo2-inplace"
+  },
+  {
+    "id": "vo2-squat-calf-burst",
+    "name": "Squat-to-calf-raise burst (30 s)",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "standing, desk side",
+    "duration_reps": "1-2 x 30 s fast reps, rest 60-90 s; 1-2 times/day",
+    "steps": [
+      "Stand with feet hip-width, fingertips near the desk.",
+      "Squat to a comfortable depth (thighs not below parallel), then stand fast and rise onto the toes.",
+      "Keep a quick but controlled rhythm for 30 s (about 1 rep per 1.5-2 s).",
+      "Rest 60-90 s standing; repeat once if comfortable."
+    ],
+    "key_cue": "Quick up, controlled down, balance with the desk.",
+    "common_mistake": "Bouncing at the bottom, knees collapsing in, heels slamming down.",
+    "evidence_level": "weak",
+    "evidence_note": "EXTRAPOLATION. Only indirect support: Zhu 2025 (Research Square PREPRINT, not peer reviewed, n=31 students, 3 groups, NO non-exercise control: deep-squat snacks of 30-60 s, 3x/day, 3 d/wk, 6 wk; VO2peak improved within every group). It cannot show squat snacks beat doing nothing.",
+    "sources": [
+      {
+        "title": "Jones et al. 2024, Sports Med: Exercise Snacks and Other Forms of Intermittent Physical Activity for Improving Health in Adults and Older Adults: scoping review",
+        "url": "https://doi.org/10.1007/s40279-023-01983-1",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 38190022); 32 records; 'feasible and appeared safe'; 'modest effects on improving cardiorespiratory fitness'; evidence mostly small studies"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      },
+      {
+        "title": "Riebe et al. 2015, Med Sci Sports Exerc 47(11): Updating ACSM's Recommendations for Exercise Preparticipation Health Screening",
+        "url": "https://doi.org/10.1249/MSS.0000000000000664",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26473759): algorithm uses current activity level, signs/symptoms or known CV/metabolic/renal disease, desired intensity; full text not read"
+      }
+    ],
+    "contraindications_safety": "Vigorous mode is for people who passed the in-app screen: no known heart, metabolic (e.g. diabetes) or kidney disease and none of these signs or symptoms: chest, neck, jaw or arm pain/discomfort; breathlessness at rest or with mild exertion; dizziness or fainting; unusual fatigue or breathlessness with usual activities (ACSM 2015 list, IDEA summary). If any applies, ask a clinician first. Skip with knee/hip pain, balance problems or after lower-limb surgery. Stop at once and do not resume that day with chest pain or pressure, unusual breathlessness, palpitations or a racing/irregular heartbeat, dizziness, light-headedness or nausea; seek urgent care if it does not settle.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 3,
+    "family": "vo2-inplace"
+  },
+  {
+    "id": "vo2-self-check-sts30",
+    "name": "30-second sit-to-stand self-check",
+    "category": "cardio",
+    "body_area": "quads / glutes / functional capacity",
+    "posture": "from a stable, non-wheeled chair",
+    "duration_reps": "1 x 30 s, repeat every 4 weeks",
+    "steps": [
+      "Place a stable chair against a wall; sit with arms crossed over the chest.",
+      "On 'go', stand fully then sit fully as many times as you can in 30 s.",
+      "Count full stands only and write the number down.",
+      "Re-test every 4 weeks; compare to your own previous score."
+    ],
+    "key_cue": "Full stand, full sit, count honestly.",
+    "common_mistake": "Using the arms, half stands, a wheeled chair.",
+    "evidence_level": "weak",
+    "evidence_note": "This measures leg function, NOT VO2max. Babir 2026 used the 30-s sit-to-stand as a secondary outcome (+1.9 reps vs control, 95% CI 0.3-3.4 after 12 weeks of 4x1 min vigorous snacks). The app should say 'functional capacity', never 'fitness age' or 'VO2'. A talk-test log (can I talk at the same brisk pace?) is a second self-check (CDC).",
+    "sources": [
+      {
+        "title": "Babir et al. 2026, Diabetes Obes Metab: Exercise snacks are feasible ... adults living with non-insulin treated type 2 diabetes: a randomised trial",
+        "url": "https://doi.org/10.1111/dom.71052",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 42502209); n=69, mean age 58, 12 wk, 4x1 min vigorous bouts >=5 d/wk vs mobility control; RPE 5.7 (0-10), peak HR 73% age-predicted max; NO between-group difference in estimated VO2max or HbA1c; 30-s sit-to-stand +1.9 reps (0.3-3.4)"
+      },
+      {
+        "title": "CDC: Measuring physical activity intensity (talk test)",
+        "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: moderate 'can talk, but not sing'; vigorous 'cannot say more than a few words without pausing for a breath'; 0-10 scale: moderate 5-6, vigorous 7-8"
+      }
+    ],
+    "contraindications_safety": "Stable chair against the wall. Stop with dizziness, knee/hip pain or chest symptoms. Not for people with balance problems unless supported.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "vo2",
+    "level": 1,
+    "family": "vo2-check"
+  },
+  {
+    "id": "reset-move-and-shake",
+    "name": "Stand, change position, shake out (45 s)",
+    "category": "reset",
+    "body_area": "whole body",
+    "posture": "seated to standing",
+    "duration_reps": "45-60 s",
+    "steps": [
+      "Push back from the desk and stand up.",
+      "Shake out the arms and legs for 10 s, then roll the shoulders back 5 times.",
+      "Take a slow breath in, long breath out, twice, while looking across the room.",
+      "Sit down in a different position (feet flat, chair or screen adjusted) or keep standing."
+    ],
+    "key_cue": "Move first, then sit differently: no single 'perfect' posture.",
+    "common_mistake": "Snapping into a rigid 'military' posture and holding it.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Framed as 'change position and move', not 'sit up straight': Slater 2019 (expert editorial, search summary only) argues there is no strong evidence for one optimal sitting posture. Micro-break benefits in general (Albulescu 2022, via 01 notes): small improvements in fatigue (d=.35) and vigor (d=.36), no reliable performance gain.",
+    "sources": [
+      {
+        "title": "Slater et al. 2019, JOSPT 49(8):562-564: 'Sit up straight': time to re-evaluate",
+        "url": "https://pure.ul.ie/en/publications/letter-to-the-editor-in-chiefslater-d-korakakis-v-osullivan-p-et-/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; expert editorial, not a trial: no strong evidence that one optimal sitting posture exists"
+      },
+      {
+        "title": "Albulescu et al. 2022, PLoS ONE: 'Give me a break!' micro-break meta-analysis",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9432722/",
+        "accessed": "2026-10-13",
+        "verification": "figures taken from this repo's research/01-microbreaks-evidence.md (fatigue d=.35, vigor d=.36); not re-read this round"
+      }
+    ],
+    "contraindications_safety": "Rise slowly if you get dizzy on standing (orthostatic); hold the desk. Skip shaking vigorous with an acute injury.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "reset",
+    "level": 1,
+    "family": "reset-posture"
+  },
+  {
+    "id": "reset-window-gaze",
+    "name": "Window gaze (40-60 s)",
+    "category": "reset",
+    "body_area": "eyes / attention",
+    "posture": "seated or standing by a window",
+    "duration_reps": "40-60 s",
+    "steps": [
+      "Stand or lean back and look out of a window or at the farthest point you can see.",
+      "If you can see greenery or sky, rest your eyes on it; let the eyes soften instead of staring.",
+      "Breathe slowly and blink normally for 40-60 s.",
+      "Return to work and name the next small step."
+    ],
+    "key_cue": "Look at the farthest and greenest thing available.",
+    "common_mistake": "Checking the phone during the break.",
+    "evidence_level": "weak",
+    "evidence_note": "Lee 2015 (n=150 students, 40 s of a green roof view vs a concrete roof, fewer omission errors; search summary only, single lab study). Looking at distant objects is also standard eye-strain advice (AAO), but the 20-20-20 timing is not supported by the one controlled test (Johnson & Rosenfield 2023, n=30, null).",
+    "sources": [
+      {
+        "title": "Lee et al. 2015, J Environ Psychol: 40-second green roof views sustain attention: the role of micro-breaks in attention restoration",
+        "url": "https://findanexpert.unimelb.edu.au/scholarlywork/977781-40-second-green-roof-views-sustain-attention--the-role-of-micro-breaks-in-attention-restoration",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; n=150 students, random assignment to 40 s of flowering-meadow vs concrete roof view; fewer omission errors in green group on a sustained-attention task"
+      },
+      {
+        "title": "American Academy of Ophthalmology: Computer use and eye strain",
+        "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+        "accessed": "2026-10-13",
+        "verification": "page read in full (research/08): blinks ~15/min normal vs 5-7/min at screens; advises conscious blinking and looking at distant objects"
+      },
+      {
+        "title": "Johnson & Rosenfield 2023, Optom Vis Sci: 20-20-20 Rule: Are These Numbers Justified?",
+        "url": "https://doi.org/10.1097/opx.0000000000001971",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 36473088); n=30 crossover, 40-min tablet task, 20-s breaks every 5/10/20/40 min: no effect on symptoms (P=.70), reading speed or accuracy"
+      }
+    ],
+    "contraindications_safety": "Safe for nearly everyone. Eye pain, sudden vision changes, flashes or floaters: see an eye professional.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "reset",
+    "level": 1,
+    "family": "reset-look"
+  },
+  {
+    "id": "reset-mini-pmr",
+    "name": "Mini muscle relaxation (75 s)",
+    "category": "reset",
+    "body_area": "shoulders / neck / hands / jaw",
+    "posture": "seated",
+    "duration_reps": "about 75 s: 5 areas x (5 s tense + 10 s release)",
+    "steps": [
+      "Sit supported, feet flat. Make fists, tense the hands and forearms at about 50% effort for 5 s, then release for 10 s.",
+      "Do the same for shoulders (shrug up), then jaw (press lips together lightly), then face (scrunch), then legs (press the heels down).",
+      "Breathe out slowly with every release and notice the difference.",
+      "Finish with one slow breath out and relaxed shoulders."
+    ],
+    "key_cue": "Tense gently, release fully: never hurt.",
+    "common_mistake": "Tensing to maximum, holding the breath, tensing the neck hard.",
+    "evidence_level": "weak",
+    "evidence_note": "Evidence is for multi-week PMR programmes, mostly in patient groups (Donato 2026 meta-analysis of 31 RCTs, n=2277: sleep SMD -1.74, anxiety SMD -1.11, I2 83-94%). A 75-s desk dose is UNPROVEN; the 5 s tense / 10 s release pattern is the conventional PMR rhythm and the dose is app-chosen.",
+    "sources": [
+      {
+        "title": "Donato et al. 2026, J Psychosom Res: PMR improves sleep quality and mental health, meta-analysis",
+        "url": "https://doi.org/10.1016/j.jpsychores.2026.112563",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 41633054); 31 RCTs, n=2277, multi-week PMR mostly in patients; sleep SMD -1.74, anxiety SMD -1.11; I2 83-94%; NOT a 60-90 s work-break dose"
+      },
+      {
+        "title": "Workplace mindfulness programmes meta-analysis (56 studies; stress g 0.32-0.77), Mindfulness 2020",
+        "url": "https://link.springer.com/article/10.1007/s12671-020-01328-3",
+        "accessed": "2026-10-13",
+        "verification": "abstract via search summary in research/03-interruptions-breathing.md; multi-week programmes, not micro-sessions"
+      }
+    ],
+    "contraindications_safety": "Use light tension only. Skip any muscle group that is injured, in spasm or painful; skip leg tensing with cramps or after recent clots (ask a clinician). Stop if it causes pain.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "reset",
+    "level": 1,
+    "family": "reset-relax"
+  },
+  {
+    "id": "reset-cold-face",
+    "name": "Cool water on the face (20-30 s)",
+    "category": "reset",
+    "body_area": "face / autonomic",
+    "posture": "standing at a washroom sink",
+    "duration_reps": "20-30 s; optional, not part of the default rotation",
+    "steps": [
+      "Go to a washroom and run cool (not icy) tap water.",
+      "Keep breathing normally; do not hold the breath.",
+      "Splash or hold a cold wet towel to the cheeks and forehead for 20-30 s.",
+      "Pat dry and breathe out slowly twice before sitting."
+    ],
+    "key_cue": "Cool, not painful, and keep breathing.",
+    "common_mistake": "Using ice-cold water, holding the breath, doing it with a medical heart-rhythm condition.",
+    "evidence_level": "weak",
+    "evidence_note": "Richer 2022 (n=28 healthy lab participants, randomized, cold stimulus to the face after a stress task): faster HR recovery and lower cortisol response. The lab protocol is not the same as a sink splash, the sample is small and one study. Walther 2021 (n=24+24): hypertensives lacked the HR drop, so the effect is not universal. Treat as an optional comfort/alertness reset, not a stress treatment.",
+    "sources": [
+      {
+        "title": "Richer et al. 2022, Sci Rep: Vagus activation by Cold Face Test reduces acute psychosocial stress responses",
+        "url": "https://doi.org/10.1038/s41598-022-23222-9",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 36357459); n=28 healthy, randomized between-subjects, cold stimulus to the face after a lab stress task; faster HR/HRV recovery and lower cortisol response; single small lab study"
+      },
+      {
+        "title": "Walther et al. 2021, J Clin Med: Altered cardiovascular reactivity to Cold Face Test in essential hypertension",
+        "url": "https://doi.org/10.3390/jcm10122714",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 34205387); n=24 hypertensive vs 24 normotensive; 2-min cold face mask; hypertensives did not show the HR decrease"
+      }
+    ],
+    "contraindications_safety": "Skip with heart-rhythm problems (bradycardia, arrhythmia, pacemaker advice), uncontrolled high blood pressure, Raynaud's phenomenon, cold urticaria or a recent face/eye injury or surgery. Stop with dizziness, chest symptoms or palpitations.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "reset",
+    "level": 2,
+    "family": "reset-cool"
+  },
+  {
+    "id": "reset-mindful-minute",
+    "name": "One-minute attention reset",
+    "category": "reset",
+    "body_area": "attention",
+    "posture": "seated or standing",
+    "duration_reps": "60 s",
+    "steps": [
+      "Put the hands down and look at one point or close your eyes.",
+      "For 60 s pay attention to the feel of breathing at the nose or belly; when the mind wanders, notice it and return.",
+      "Let one breath out be long.",
+      "Open your eyes and choose the next single task."
+    ],
+    "key_cue": "Notice, return, repeat: wandering is the exercise.",
+    "common_mistake": "Judging yourself for wandering; trying to force calm.",
+    "evidence_level": "weak",
+    "evidence_note": "Workplace mindfulness evidence is for multi-week programmes (meta-analysis of 56 studies, stress g 0.32-0.77, search summary). The 5-min Balban 2023 trial used mindfulness as the comparator (+1.22 PANAS) and showed cyclic sighing slightly better. A single 60-s exercise is UNPROVEN. Kept as a quiet alternative to the existing cyclic sighing.",
+    "sources": [
+      {
+        "title": "Workplace mindfulness programmes meta-analysis (56 studies; stress g 0.32-0.77), Mindfulness 2020",
+        "url": "https://link.springer.com/article/10.1007/s12671-020-01328-3",
+        "accessed": "2026-10-13",
+        "verification": "abstract via search summary in research/03-interruptions-breathing.md; multi-week programmes, not micro-sessions"
+      },
+      {
+        "title": "Balban et al. 2023, Cell Rep Med: Brief structured respiration practices enhance mood and reduce physiological arousal",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947/",
+        "accessed": "2026-10-13",
+        "verification": "read in research/03-interruptions-breathing.md: n=108/100, 5 min/day x 28 days; mindfulness meditation was the comparator (+1.22 PANAS) vs cyclic sighing (+1.89); small effects"
+      }
+    ],
+    "contraindications_safety": "Safe for most people. People with trauma history or panic disorder can find inward attention distressing: allow eyes open and stopping any time.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "reset",
+    "level": 1,
+    "family": "reset-attention"
+  },
+  {
+    "id": "eyes-screen-setup-check",
+    "name": "Screen setup check (30 s)",
+    "category": "eyes",
+    "body_area": "eyes / neck / workstation",
+    "posture": "seated at the desk",
+    "duration_reps": "30 s, once a day or when strain appears",
+    "steps": [
+      "Sit back in your normal working position.",
+      "Check the screen centre is about 20-28 in (50-70 cm) from your eyes and about 4-5 in (10 cm, 15-20 degrees) below eye level.",
+      "Check for glare from windows or lights on the screen; tilt the screen or lower the blinds if you see reflections.",
+      "Check text size is easy to read without leaning forward."
+    ],
+    "key_cue": "Arm's length, slightly down, no glare.",
+    "common_mistake": "Leaning in to read small text; screen above eye level.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "AOA page read: 20-28 in distance, 15-20 degrees below eye level, glare control. TFOS Lifestyle 2023: optimizing the work environment may help; interventions are in general not well established. Cochrane-style evidence for ergonomic changes is weak (Singh 2022: no high-certainty evidence for any therapy).",
+    "sources": [
+      {
+        "title": "American Optometric Association: Computer vision syndrome",
+        "url": "https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: screen 20-28 in from eyes, 15-20 deg (about 4-5 in) below eye level; avoid glare from windows/overhead lights; 20-20-20 wording; blink often; annual eye exam; does NOT recommend specific eye exercises (vision therapy only for diagnosed focusing/coordination problems)"
+      },
+      {
+        "title": "Wolffsohn et al. 2023, Ocul Surf: TFOS Lifestyle: Impact of the digital environment on the ocular surface",
+        "url": "https://doi.org/10.1016/j.jtos.2023.04.004",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 37062428); full refractive correction for working distance; 'improving blinking, optimizing the work environment and encouraging regular breaks may help'; blue-light blocking not effective; interventions in general not well established"
+      },
+      {
+        "title": "Singh et al. 2022, Ophthalmology: Interventions for the management of computer vision syndrome, SR/MA",
+        "url": "https://doi.org/10.1016/j.ophtha.2022.05.009",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 35597519); 45 RCTs, n=4497; no high-certainty evidence for any therapy; blue-blocking spectacles did not reduce visual fatigue (low certainty)"
+      }
+    ],
+    "contraindications_safety": "If you need to lean in, squint or get headaches, book an eye exam: uncorrected refractive error or presbyopia is a common cause (TFOS). Sudden vision change, pain, flashes or floaters need prompt professional care.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "eyes",
+    "level": 1,
+    "family": "eyes-setup"
+  },
+  {
+    "id": "eyes-complete-blink-pause",
+    "name": "Complete-blink pause (30 s)",
+    "category": "eyes",
+    "body_area": "eyes / tear film",
+    "posture": "seated",
+    "duration_reps": "30 s, 1-2 times per hour",
+    "steps": [
+      "Look away from the screen and let the face relax.",
+      "Blink fully about once every 3 s: close the lids gently all the way, then open.",
+      "Do 10 complete blinks while breathing slowly.",
+      "Return to the screen and notice your blink rate."
+    ],
+    "key_cue": "Close fully, open softly.",
+    "common_mistake": "Squeezing hard or fluttering rapidly.",
+    "evidence_level": "weak",
+    "evidence_note": "AAO: normal ~15 blinks/min vs 5-7 at screens; advises conscious blinking. Xu 2025 (n=40, people WITH dry eye disease, 30 days, app-guided blink training improved blink behaviour and ocular surface measures; small, randomized vs no intervention). No trial in healthy desk workers. The existing 'blink-reset' covers a similar idea; this variant adds a paced cadence for variety.",
+    "sources": [
+      {
+        "title": "American Academy of Ophthalmology: Computer use and eye strain",
+        "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+        "accessed": "2026-10-13",
+        "verification": "page read in full (research/08): blinks ~15/min normal vs 5-7/min at screens; advises conscious blinking and looking at distant objects"
+      },
+      {
+        "title": "Xu et al. 2025, npj Digit Med: A smartphone-based blink training application for alleviating dry eye signs and symptoms",
+        "url": "https://doi.org/10.1038/s41746-025-02053-8",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 41266739); n=40 people with dry eye disease, 30 days, randomized vs no intervention; improved blink behaviour and ocular surface measures; small, unblinded"
+      },
+      {
+        "title": "Wolffsohn et al. 2023, Ocul Surf: TFOS Lifestyle: Impact of the digital environment on the ocular surface",
+        "url": "https://doi.org/10.1016/j.jtos.2023.04.004",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 37062428); full refractive correction for working distance; 'improving blinking, optimizing the work environment and encouraging regular breaks may help'; blue-light blocking not effective; interventions in general not well established"
+      }
+    ],
+    "contraindications_safety": "Stop with eye pain or irritation. Persistent dry, gritty or burning eyes: see an eye professional (artificial tears, warm compress and other treatment are for them to advise).",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "eyes",
+    "level": 2,
+    "family": "eyes-blink"
+  },
+  {
+    "id": "eyes-near-far-focus",
+    "name": "Near-far focus shift (30 s)",
+    "category": "eyes",
+    "body_area": "eyes / accommodation",
+    "posture": "seated",
+    "duration_reps": "30 s, optional",
+    "steps": [
+      "Hold a thumb at arm's length and look at it for 3 s.",
+      "Shift the gaze to something 6+ m (20 ft) away for 3 s.",
+      "Alternate near and far 5 times, blinking normally and breathing slowly.",
+      "Finish looking far for a few seconds."
+    ],
+    "key_cue": "Slow, easy shifts, never forcing a blur to clear.",
+    "common_mistake": "Straining or going cross-eyed to force the focus.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "OPINION / NO ADULT TRIAL FOUND. AOA does not recommend specific eye exercises (vision therapy is for diagnosed focusing/coordination problems). Rawstron 2005 systematic review: supported mainly for convergence insufficiency, 'no clear scientific evidence' for asthenopia. Recommendation: ship only if the owner accepts an opinion-labelled item; otherwise drop. Not a Bates-method item: Bates-style 'cure' claims (palming/sunning/swinging for acuity) are excluded; eye exercises show 'limited to no efficacy' for myopia (Lin 2024).",
+    "sources": [
+      {
+        "title": "American Optometric Association: Computer vision syndrome",
+        "url": "https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: screen 20-28 in from eyes, 15-20 deg (about 4-5 in) below eye level; avoid glare from windows/overhead lights; 20-20-20 wording; blink often; annual eye exam; does NOT recommend specific eye exercises (vision therapy only for diagnosed focusing/coordination problems)"
+      },
+      {
+        "title": "Rawstron et al. 2005, J Pediatr Ophthalmol Strabismus: A systematic review of the applicability and efficacy of eye exercises",
+        "url": "https://doi.org/10.3928/01913913-20050301-02",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 15825744); evidence supports eye exercises mainly for convergence insufficiency; 'no clear scientific evidence' for most other claimed uses (asthenopia, myopia, acuity)"
+      },
+      {
+        "title": "Lin et al. 2024, Eye: Eye exercises for myopia prevention and control, SR/MA",
+        "url": "https://doi.org/10.1038/s41433-023-02739-x",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 37740051); 11 studies, n=921, children; 'limited to no efficacy' for preventing/controlling myopia"
+      }
+    ],
+    "contraindications_safety": "Stop with headache, double vision or eye pain. Known binocular or focusing problems: do only as directed by an eye professional. Not for use as a treatment for myopia.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "eyes",
+    "level": 2,
+    "family": "eyes-focus"
+  },
+  {
+    "id": "calf-raise-single-leg",
+    "name": "Single-leg calf raise (hand on desk)",
+    "category": "strength-snacks",
+    "body_area": "calves / ankle",
+    "posture": "standing, one hand on desk",
+    "duration_reps": "5-10 slow reps per leg",
+    "steps": [
+      "Stand next to the desk, one hand resting on it for balance.",
+      "Shift your weight onto one foot, the other foot lightly off the floor behind you.",
+      "Rise up on the ball of the foot over 2 s, hold 1 s, lower over 3 s.",
+      "Finish all reps, then switch legs."
+    ],
+    "key_cue": "Straight up and down, ankle stays stacked.",
+    "common_mistake": "Rolling the ankle outward, bouncing, using the desk to push up.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Progression of the double-leg calf raise (NHS lists calf raises, 5 reps). Single-leg is the standard harder step. The ACSM 2009 stand supports progressing when the current load is easy (2-10% load, 1-2 reps above target); mapping that to 'next variation' is app-chosen. Dose is app-chosen.",
+    "sources": [
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      },
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      }
+    ],
+    "contraindications_safety": "Keep a hand on the desk. Skip with Achilles or calf pain, recent ankle sprain or balance problems. Stop with calf cramps or sharp pain.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "calf-raise"
+  },
+  {
+    "id": "calf-raise-slow-eccentric",
+    "name": "Slow-lowering calf raise (4 s down)",
+    "category": "strength-snacks",
+    "body_area": "calves / Achilles",
+    "posture": "standing, hand on desk",
+    "duration_reps": "8-10 reps, 1 s up, 4 s down",
+    "steps": [
+      "Stand hip-width, a hand on the desk.",
+      "Rise onto the toes in 1 s.",
+      "Lower the heels very slowly over 4 s until they just touch the floor.",
+      "Repeat 8-10 times without bouncing."
+    ],
+    "key_cue": "Take 4 full seconds down.",
+    "common_mistake": "Dropping the heels quickly; leaning into the desk.",
+    "evidence_level": "weak",
+    "evidence_note": "Slow lowering is a tempo variation for variety. The Alfredson/Silbernagel eccentric protocols (e.g. Habets 2021, n=40) are rehab for people WITH Achilles tendinopathy (typically 3x15 daily) and must not be quoted as a desk dose. ACSM 2009 supports tempo control of 1-2 s up/1-2 s down for novices; the 4 s count here is app-chosen.",
+    "sources": [
+      {
+        "title": "Habets et al. 2021, Orthop J Sports Med: Alfredson eccentric vs Silbernagel loading in Achilles tendinopathy RCT",
+        "url": "https://doi.org/10.1177/23259671211031254",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 34722783); n=40 recreational athletes WITH Achilles tendinopathy; both improved VISA-A; patient protocol, not a desk-user dose"
+      },
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Skip if you have Achilles pain or a past Achilles rupture; do not push through pain. Stop with sharp pain or calf cramps.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "calf-raise"
+  },
+  {
+    "id": "calf-raise-bent-knee",
+    "name": "Bent-knee (soleus) calf raise",
+    "category": "strength-snacks",
+    "body_area": "soleus (deep calf)",
+    "posture": "standing, hand on desk",
+    "duration_reps": "10-12 reps",
+    "steps": [
+      "Stand next to the desk, one hand on it.",
+      "Bend both knees slightly, about 30 degrees, and keep them there.",
+      "Rise onto the balls of the feet over 2 s, hold 1 s.",
+      "Lower slowly over 3 s without straightening the knees."
+    ],
+    "key_cue": "Knees stay softly bent the whole time.",
+    "common_mistake": "Straightening the knees at the top, which turns it into a standard calf raise.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Mechanics: the clinical heel-raise test uses ~0 deg knee flexion for gastrocnemius and ~30 deg for soleus (Hebert-Losier 2011, n=17, test-method paper). Use as variety, not as a proven training advantage. Dose is app-chosen.",
+    "sources": [
+      {
+        "title": "Hebert-Losier et al. 2011, JOSPT: Knee flexion angles during two versions of the heel raise test (soleus vs gastrocnemius)",
+        "url": "https://doi.org/10.2519/jospt.2011.3489",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21335928); n=17; the test uses ~0 deg knee flexion for gastrocnemius and ~30 deg for soleus; a test-method paper, not a training trial"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Keep a hand on the desk. Stop with knee, calf or Achilles pain.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "calf-raise"
+  },
+  {
+    "id": "shin-toe-raise",
+    "name": "Toe raises (shin/tibialis)",
+    "category": "strength-snacks",
+    "body_area": "front of shin / ankle",
+    "posture": "standing with heels about 30 cm from a wall",
+    "duration_reps": "10-15 reps",
+    "steps": [
+      "Stand with your back to a wall, heels about a foot from it, hips and shoulders touching the wall.",
+      "Keep the legs straight and lift the toes and front of the foot up toward the shins.",
+      "Hold 1 s, then lower the toes slowly over 2 s.",
+      "Repeat 10-15 times."
+    ],
+    "key_cue": "Heels stay down, toes go up.",
+    "common_mistake": "Bending the knees or leaning forward off the wall.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND for this specific dose or its benefit; included as the antagonist to calf raises (mechanics standard). Do not claim shin-splint prevention.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only (as in 02-exercise-catalog.verified.json): muscle strengthening 2+ d/wk; class-level, no dose for a specific desk move"
+      }
+    ],
+    "contraindications_safety": "Stop with shin, ankle or front-of-ankle pain. Skip with a recent ankle or shin injury.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "shin-raise"
+  },
+  {
+    "id": "mini-squat",
+    "name": "Mini squat (hold the desk)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes",
+    "posture": "standing, hands on desk",
+    "duration_reps": "5-8 reps",
+    "steps": [
+      "Stand tall, feet shoulder-width, hands lightly on the desk.",
+      "Bend the knees and sit the hips back slightly, to a depth of about a quarter squat.",
+      "Pause for a second and keep the chest up.",
+      "Push through the whole foot to stand; repeat 5-8 times."
+    ],
+    "key_cue": "Small and smooth: weight on the whole foot.",
+    "common_mistake": "Knees caving in, heels lifting, bouncing.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "NHS strength exercises page lists mini-squats (5 reps, 'build up slowly'). WHO/CDC: muscle-strengthening on 2+ days/week. Dose beyond 5 reps is app-chosen.",
+    "sources": [
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      },
+      {
+        "title": "CDC: Physical Activity Guidelines for Adults",
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: muscle-strengthening on 2+ days/wk for all major muscle groups; page gave no safety screening text"
+      }
+    ],
+    "contraindications_safety": "Stable footing; skip with acute knee or hip pain. Stop with dizziness or sharp joint pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "squat"
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight squat",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes / core",
+    "posture": "standing, desk in front for balance",
+    "duration_reps": "8-10 reps",
+    "steps": [
+      "Stand with feet slightly wider than the hips, toes a little out, arms forward or hand on the desk.",
+      "Sit the hips back and down until the thighs are about parallel to the floor (or as far as is comfortable).",
+      "Keep the chest up and knees tracking over the toes; heels stay down.",
+      "Stand up over 1-2 s; repeat 8-10 times."
+    ],
+    "key_cue": "Hips back, chest up, knees follow the toes.",
+    "common_mistake": "Heels lifting, knees caving, rounded back.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "WHO/CDC class-level muscle-strengthening (2+ d/wk). NHS lists mini-squats and sit-to-stand; the full-depth squat is the standard next step. Rep count is app-chosen.",
+    "sources": [
+      {
+        "title": "CDC: Physical Activity Guidelines for Adults",
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: muscle-strengthening on 2+ days/wk for all major muscle groups; page gave no safety screening text"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      },
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      }
+    ],
+    "contraindications_safety": "Skip or limit depth with knee/hip pain, after joint replacement, or with balance problems. Stop with sharp pain or dizziness.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "squat"
+  },
+  {
+    "id": "sumo-squat",
+    "name": "Sumo (wide-stance) squat",
+    "category": "strength-snacks",
+    "body_area": "glutes / inner thighs / quads",
+    "posture": "standing, hand on desk",
+    "duration_reps": "8-10 reps",
+    "steps": [
+      "Stand with feet about twice shoulder-width, toes turned out 30-45 degrees.",
+      "Keep the chest up and lower the hips straight down, knees pushing out over the toes.",
+      "Go down only as far as is comfortable (thighs near parallel at most).",
+      "Squeeze the glutes as you stand; repeat 8-10 times."
+    ],
+    "key_cue": "Knees follow the toes, hips go straight down.",
+    "common_mistake": "Letting the knees fall inward; turning the toes out too far for the hips.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND for the wide-stance benefit; included as a stance variation of the squat (class-level WHO only). Do not claim extra glute or adductor activation.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only (as in 02-exercise-catalog.verified.json): muscle strengthening 2+ d/wk; class-level, no dose for a specific desk move"
+      }
+    ],
+    "contraindications_safety": "Skip with groin, hip or knee pain; reduce turn-out if the knees hurt. Stop with sharp pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "squat"
+  },
+  {
+    "id": "split-squat-static",
+    "name": "Static split squat (hand on desk)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes",
+    "posture": "standing split stance, hand on desk",
+    "duration_reps": "5-8 reps per leg",
+    "steps": [
+      "Stand next to the desk and step one foot back about a long stride; hold the desk lightly.",
+      "Keep the torso upright and lower the back knee straight down toward the floor.",
+      "Stop with the front thigh near parallel and the front knee over the ankle.",
+      "Push through the front heel to rise; finish all reps, then switch legs."
+    ],
+    "key_cue": "Straight down and straight up, front heel flat.",
+    "common_mistake": "Leaning forward, front knee collapsing inward, stride too short.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND for this specific dose; a standard unilateral progression of the squat. Use the ACSM 2009 rule of progressing only when the easier version feels easy (adaptation is app-chosen).",
+    "sources": [
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      },
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only (as in 02-exercise-catalog.verified.json): muscle strengthening 2+ d/wk; class-level, no dose for a specific desk move"
+      }
+    ],
+    "contraindications_safety": "Hold the desk for balance. Skip with knee pain, balance problems or after lower-limb surgery. Stop with sharp pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "squat"
+  },
+  {
+    "id": "slow-tempo-squat",
+    "name": "Slow-tempo squat (3 s down)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes",
+    "posture": "standing, desk in front",
+    "duration_reps": "6-8 reps, 3 s down, 1 s pause, 1-2 s up",
+    "steps": [
+      "Stand tall, feet shoulder-width, hand on the desk.",
+      "Lower over a count of 3 seconds to a comfortable depth.",
+      "Pause 1 second without relaxing.",
+      "Stand up over 1-2 seconds; repeat 6-8 times."
+    ],
+    "key_cue": "Count three on the way down.",
+    "common_mistake": "Rushing the lowering; holding the breath.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Tempo is a harder variation of the same squat. ACSM 2009 recommends 1-2 s concentric / 1-2 s eccentric for novices; the 3-s lowering and 1-s pause are app-chosen, not tested.",
+    "sources": [
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Breathe steadily. Skip with knee pain or balance problems. Stop with dizziness or sharp pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "squat"
+  },
+  {
+    "id": "squat-to-calf-raise",
+    "name": "Squat with calf raise (slow)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes / calves",
+    "posture": "standing, hand on desk",
+    "duration_reps": "6-8 reps",
+    "steps": [
+      "Stand with feet hip-width, a hand on the desk.",
+      "Squat down to a comfortable depth and pause 1 second.",
+      "Stand up and, at the top, rise smoothly onto the toes for 1 second.",
+      "Lower the heels with control and repeat 6-8 times."
+    ],
+    "key_cue": "Squat first, rise second.",
+    "common_mistake": "Rising onto the toes while still bent; bouncing.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND; a combination of the two NHS moves (mini-squat and calf raise). For the fast cardio version see vo2-squat-calf-burst.",
+    "sources": [
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Hold the desk for balance. Skip with knee, ankle or balance problems. Stop with sharp pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "squat"
+  },
+  {
+    "id": "wall-sit-shallow",
+    "name": "Shallow wall sit (10-20 s)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes",
+    "posture": "standing against a wall",
+    "duration_reps": "2 x 10-20 s, breathing steadily",
+    "steps": [
+      "Stand with your back flat against a wall, feet about 50 cm out.",
+      "Slide down only a little, knees bent about 30-45 degrees.",
+      "Hold 10-20 s while breathing normally, never holding the breath.",
+      "Slide back up and rest 20-30 s; repeat once or twice."
+    ],
+    "key_cue": "Shallow and easy: keep breathing.",
+    "common_mistake": "Sliding too low, holding the breath, hands pushing on the thighs.",
+    "evidence_level": "weak",
+    "evidence_note": "Shallow, shorter variant of the existing wall-sit. Jones 2026 (n=62 healthy, mean 27 y): holding wall sit/plank to fatigue pushed 97-98% over DBP 115 mmHg after ~50 s, with no adverse events. Silva 2024 (n=17): 2-min wall squats every 30 min had no overall effect on BP or vascular function. Isometric BP-lowering evidence (Inder 2016, 11 RCTs, n=302) is for multi-week TRAINING, not a desk break. Hold cap of 20 s is app-chosen, well short of fatigue.",
+    "sources": [
+      {
+        "title": "Jones et al. 2026, J Hypertens: Acute blood pressure responses to plank and wall sit isometric exercise in adults",
+        "url": "https://doi.org/10.1097/hjh.0000000000004191",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 41252651); n=62 healthy (mean 26.7 y); held to volitional fatigue: 97-98% reached DBP >115 mmHg after ~50 s; no adverse events"
+      },
+      {
+        "title": "Silva et al. 2024, J Cardiopulm Rehabil Prev: Breaking up sitting with isometric wall squat, randomized crossover",
+        "url": "https://doi.org/10.1097/hcr.0000000000000877",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 38885063); n=17; 2-min wall squat every 30 min for 180 min; no overall effect on popliteal FMD or BP (benefit only in a subgroup)"
+      },
+      {
+        "title": "Inder et al. 2016, Hypertens Res: Isometric exercise training for blood pressure management, meta-analysis",
+        "url": "https://doi.org/10.1038/hr.2015.111",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26467494); 11 RCTs, n=302, training >=2 wk; SBP -5.20 mmHg (-6.08 to -4.33); these are multi-week isometric TRAINING programmes, not a desk-break dose"
+      }
+    ],
+    "contraindications_safety": "Keep holds short and breathe. Skip or check with a clinician first if you have high blood pressure, heart disease, a history of stroke or dizziness. Stop with chest pain, dizziness, headache or sharp joint pain.",
+    "office_friendly": 2,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "wall-sit"
+  },
+  {
+    "id": "wall-push-up",
+    "name": "Wall push-up",
+    "category": "strength-snacks",
+    "body_area": "chest / triceps / shoulders",
+    "posture": "standing facing a wall",
+    "duration_reps": "3 x 5-10 reps (start with 1 set of 5-8)",
+    "steps": [
+      "Stand about an arm's length plus one step from a wall, feet hip-width.",
+      "Place hands on the wall at chest height, slightly wider than the shoulders.",
+      "Bend the elbows to about 45 degrees from the body and bring the chest toward the wall over 2 s.",
+      "Press away over 1-2 s; keep the body in one line."
+    ],
+    "key_cue": "One straight line, elbows at 45 degrees.",
+    "common_mistake": "Sagging hips, flaring elbows, head poking forward.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "NHS strength exercises page lists the wall press-up: 3 sets of 5-10 reps. Ebben 2011 (n=23) shows hands-elevated variants load the arms less than standard push-ups (ordering only).",
+    "sources": [
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      },
+      {
+        "title": "Ebben et al. 2011, J Strength Cond Res: Kinetic analysis of several variations of push-ups",
+        "url": "https://doi.org/10.1519/jsc.0b013e31820c8587",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21873902); n=23; hands-elevated and knee push-ups gave lower peak ground reaction force than standard; feet-elevated higher (ordering only; percentages not used)"
+      }
+    ],
+    "contraindications_safety": "Skip with shoulder, wrist or elbow pain. Stop with sharp pain. Do not lock the elbows hard.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "push-up"
+  },
+  {
+    "id": "desk-push-up-slow",
+    "name": "Slow-lowering desk push-up (3 s down)",
+    "category": "strength-snacks",
+    "body_area": "chest / triceps / shoulders / core",
+    "posture": "standing at a fixed sturdy desk",
+    "duration_reps": "5-8 reps, 3 s down, 1 s up",
+    "steps": [
+      "Place hands on the edge of a fixed sturdy desk, slightly wider than the shoulders; walk the feet back to a straight diagonal line.",
+      "Brace the abdomen and squeeze the glutes.",
+      "Lower the chest to the desk over 3 s, elbows about 45 degrees.",
+      "Press up over 1 s; repeat 5-8 times."
+    ],
+    "key_cue": "Three seconds down, straight line.",
+    "common_mistake": "Dropping fast, sagging hips, a desk that slides.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Tempo variation of the incline push-up; ACSM 2009 recommends 1-2 s eccentric for novices, the 3 s is app-chosen. Ebben 2011 (ordering only): hands-elevated is easier than standard push-ups.",
+    "sources": [
+      {
+        "title": "ACSM 2009 position stand: Progression models in resistance training for healthy adults",
+        "url": "https://doi.org/10.1249/mss.0b013e3181915670",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19204579): novices 8-12 RM; increase load 2-10% when 1-2 reps over the target can be done; 2-3 d/wk for novices; 1-2 s concentric/1-2 s eccentric"
+      },
+      {
+        "title": "Ebben et al. 2011, J Strength Cond Res: Kinetic analysis of several variations of push-ups",
+        "url": "https://doi.org/10.1519/jsc.0b013e31820c8587",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21873902); n=23; hands-elevated and knee push-ups gave lower peak ground reaction force than standard; feet-elevated higher (ordering only; percentages not used)"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Use only a fixed, heavy desk; never wheeled furniture. Skip with shoulder/wrist/elbow pain or carpal tunnel flare-ups. Pregnancy: use a higher incline and avoid abdominal pressure. Stop with sharp pain.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "push-up"
+  },
+  {
+    "id": "desk-push-up-wide",
+    "name": "Wide-hand desk push-up",
+    "category": "strength-snacks",
+    "body_area": "chest / shoulders",
+    "posture": "standing at a fixed sturdy desk",
+    "duration_reps": "8-10 reps",
+    "steps": [
+      "Place hands on the edge of a fixed desk, wider than the shoulders (about 1.5x shoulder-width).",
+      "Step back to a straight diagonal line and brace the abdomen.",
+      "Lower the chest toward the desk over 2 s, elbows pointing out about 45-60 degrees.",
+      "Press back up over 1-2 s; repeat 8-10 times."
+    ],
+    "key_cue": "Wide hands, straight line.",
+    "common_mistake": "Letting the shoulders shrug up to the ears.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND on hand-width effects; offered as variety at the same level, not as a progression. Level 2 equals the standard incline push-up.",
+    "sources": [
+      {
+        "title": "Ebben et al. 2011, J Strength Cond Res: Kinetic analysis of several variations of push-ups",
+        "url": "https://doi.org/10.1519/jsc.0b013e31820c8587",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21873902); n=23; hands-elevated and knee push-ups gave lower peak ground reaction force than standard; feet-elevated higher (ordering only; percentages not used)"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Use only a fixed, heavy desk. Skip with shoulder pain (wide grips load the shoulder more). Stop with sharp pain.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "push-up"
+  },
+  {
+    "id": "desk-push-up-narrow",
+    "name": "Narrow-hand desk push-up (triceps)",
+    "category": "strength-snacks",
+    "body_area": "triceps / chest",
+    "posture": "standing at a fixed sturdy desk",
+    "duration_reps": "6-10 reps",
+    "steps": [
+      "Place hands on the desk edge about shoulder-width or a little narrower, fingers forward.",
+      "Step back to a straight diagonal line and brace the abdomen.",
+      "Lower the chest toward the hands over 2 s, elbows brushing the sides.",
+      "Press back up over 1-2 s; repeat 6-10 times."
+    ],
+    "key_cue": "Elbows stay close to the ribs.",
+    "common_mistake": "Elbows flaring, wrists collapsing.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND on hand-width effects; variety at the same level, not a progression.",
+    "sources": [
+      {
+        "title": "Ebben et al. 2011, J Strength Cond Res: Kinetic analysis of several variations of push-ups",
+        "url": "https://doi.org/10.1519/jsc.0b013e31820c8587",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21873902); n=23; hands-elevated and knee push-ups gave lower peak ground reaction force than standard; feet-elevated higher (ordering only; percentages not used)"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Use only a fixed, heavy desk. Skip with wrist, elbow or carpal tunnel flare-ups. Stop with sharp pain.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "push-up"
+  },
+  {
+    "id": "floor-push-up",
+    "name": "Floor push-up (optional)",
+    "category": "strength-snacks",
+    "body_area": "chest / triceps / shoulders / core",
+    "posture": "floor, off-desk; not office friendly",
+    "duration_reps": "5-8 reps",
+    "steps": [
+      "Place hands under the shoulders, body in a straight line from head to heels (or knees, if you need an easier version).",
+      "Brace the abdomen and squeeze the glutes.",
+      "Lower the chest toward the floor over 2 s, elbows about 45 degrees.",
+      "Press back up; repeat 5-8 times."
+    ],
+    "key_cue": "One straight line, chest to the floor.",
+    "common_mistake": "Sagging hips, flaring elbows, partial reps.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "Ebben 2011 (n=23): hands-elevated and knee push-ups loaded the arms less than a regular push-up, so the floor push-up is the hardest of this family. NHS and CDC list push-ups as strength exercises (class-level).",
+    "sources": [
+      {
+        "title": "Ebben et al. 2011, J Strength Cond Res: Kinetic analysis of several variations of push-ups",
+        "url": "https://doi.org/10.1519/jsc.0b013e31820c8587",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 21873902); n=23; hands-elevated and knee push-ups gave lower peak ground reaction force than standard; feet-elevated higher (ordering only; percentages not used)"
+      },
+      {
+        "title": "NHS: Physical activity guidelines for adults aged 19 to 64",
+        "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: talk-test definitions; 75 min vigorous ~ 150 min moderate; speak to GP first if not exercised for some time or medical conditions; stair climbing and skipping listed as vigorous"
+      },
+      {
+        "title": "CDC: Physical Activity Guidelines for Adults",
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: muscle-strengthening on 2+ days/wk for all major muscle groups; page gave no safety screening text"
+      }
+    ],
+    "contraindications_safety": "Use a mat; not for the office floor in work clothes. Skip with shoulder, wrist or elbow pain, carpal tunnel flare-ups, or in pregnancy without advice. Stop with sharp pain.",
+    "office_friendly": 1,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "push-up"
+  },
+  {
+    "id": "glute-squeeze-standing",
+    "name": "Standing glute squeeze",
+    "category": "strength-snacks",
+    "body_area": "glutes",
+    "posture": "standing",
+    "duration_reps": "8-10 squeezes of 5 s",
+    "steps": [
+      "Stand tall, feet hip-width.",
+      "Squeeze both glutes as if holding a coin between them, without tilting the pelvis forward.",
+      "Hold 5 s while breathing normally.",
+      "Release fully for 3 s; repeat 8-10 times."
+    ],
+    "key_cue": "Squeeze and keep breathing.",
+    "common_mistake": "Arching the lower back, holding the breath.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND for this dose; a basic isometric contraction (class-level WHO only).",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only (as in 02-exercise-catalog.verified.json): muscle strengthening 2+ d/wk; class-level, no dose for a specific desk move"
+      }
+    ],
+    "contraindications_safety": "Stop with cramp or back pain; breathe normally.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "glute"
+  },
+  {
+    "id": "standing-hip-abduction",
+    "name": "Standing sideways leg lift",
+    "category": "strength-snacks",
+    "body_area": "outer hips / glutes",
+    "posture": "standing, hand on desk",
+    "duration_reps": "5-10 reps per leg",
+    "steps": [
+      "Stand tall next to the desk, one hand resting on it.",
+      "Keep the supporting leg slightly soft and the toes of the lifting leg pointing forward.",
+      "Lift the other leg out to the side about 30-45 cm, slowly, without leaning.",
+      "Lower under control; do all reps, then switch legs."
+    ],
+    "key_cue": "Straight up the side, torso stays still.",
+    "common_mistake": "Leaning the trunk, swinging the leg, rolling the foot out.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "NHS strength exercises page lists the sideways leg lift: 'raise and lower each leg 5 times'. Rep range above 5 is app-chosen.",
+    "sources": [
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      },
+      {
+        "title": "CDC: Physical Activity Guidelines for Adults",
+        "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: muscle-strengthening on 2+ days/wk for all major muscle groups; page gave no safety screening text"
+      }
+    ],
+    "contraindications_safety": "Keep a hand on the desk. Skip with hip pain or recent hip replacement unless cleared. Stop with sharp pain.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 2,
+    "family": "hip-abduction"
+  },
+  {
+    "id": "standing-knee-raise",
+    "name": "Slow standing knee raise",
+    "category": "strength-snacks",
+    "body_area": "hip flexors / core / balance",
+    "posture": "standing, hand on desk",
+    "duration_reps": "6-8 per leg",
+    "steps": [
+      "Stand tall next to the desk, one hand on it.",
+      "Lift one knee slowly toward hip height without leaning back.",
+      "Hold 2 s, lower under control.",
+      "Do all reps on one leg, then switch."
+    ],
+    "key_cue": "Tall posture, slow, balance with the desk.",
+    "common_mistake": "Leaning back, swinging, holding the desk with a death grip.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND; a slow variant of the existing marching. Falls risk applies to unilateral stance.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only (as in 02-exercise-catalog.verified.json): muscle strengthening 2+ d/wk; class-level, no dose for a specific desk move"
+      }
+    ],
+    "contraindications_safety": "Keep a hand on the desk. Skip with balance problems, vertigo, or hip pain. Stop with dizziness or sharp pain.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "knee-raise"
+  },
+  {
+    "id": "single-leg-balance-support",
+    "name": "Single-leg balance (fingertips on desk)",
+    "category": "strength-snacks",
+    "body_area": "ankle stabilizers / balance",
+    "posture": "standing, fingertips on a fixed desk",
+    "duration_reps": "2 x 10-20 s per leg",
+    "steps": [
+      "Stand tall next to the desk with fingertips resting on it, feet hip-width.",
+      "Shift your weight onto one foot and lift the other slightly off the floor.",
+      "Hold 10-20 s, looking at a spot straight ahead.",
+      "Lower and switch legs; repeat twice."
+    ],
+    "key_cue": "Look at one still point; breathe.",
+    "common_mistake": "Gripping the desk, hiking the hip, looking down at the feet.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "Exercise programmes with balance and strength training reduce falls in people aged 60+ (Sherrington 2019 Cochrane: 108 RCTs, 23,407 people, mean age 76, rate ratio 0.77, high certainty). That evidence is in OLDER adults; for office workers use as proprioception variety only. Single-leg stance time declines with age (Springer 2007, n=549).",
+    "sources": [
+      {
+        "title": "Sherrington et al. 2019, Cochrane: Exercise for preventing falls in older people living in the community",
+        "url": "https://doi.org/10.1002/14651858.CD012424.pub2",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 30703272); 108 RCTs, 23,407 people aged 60+ (mean 76); exercise reduces fall rate by 23% (RaR 0.77, 0.71-0.83), high certainty; population is OLDER adults"
+      },
+      {
+        "title": "Springer et al. 2007, J Geriatr Phys Ther: Normative values for the unipedal stance test",
+        "url": "https://doi.org/10.1519/00139143-200704000-00003",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19839175); n=549 healthy adults; single-leg stance time declines with age"
+      }
+    ],
+    "contraindications_safety": "Always have a fixed desk within reach. Skip with vertigo, recent ankle sprain, neuropathy or poor balance without support. Stop with dizziness.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "balance"
+  },
+  {
+    "id": "single-leg-balance-free",
+    "name": "Single-leg balance (no hand)",
+    "category": "strength-snacks",
+    "body_area": "ankle stabilizers / balance",
+    "posture": "standing near (not holding) a fixed desk",
+    "duration_reps": "2 x 10-30 s per leg",
+    "steps": [
+      "Stand tall within arm's reach of a fixed desk, hands crossed at the chest or hovering.",
+      "Lift one foot slightly and balance, eyes on a fixed point.",
+      "Hold 10-30 s; touch the desk any time you lose balance.",
+      "Switch legs; progress later to a softly bent knee (not eyes closed)."
+    ],
+    "key_cue": "Eyes on a spot, soft knee.",
+    "common_mistake": "Closing the eyes too early, locking the knee.",
+    "evidence_level": "guideline-backed (class-level only)",
+    "evidence_note": "Same evidence as the supported version (Sherrington 2019 is in 60+ adults). Eyes-closed variants are deliberately excluded for desk use.",
+    "sources": [
+      {
+        "title": "Sherrington et al. 2019, Cochrane: Exercise for preventing falls in older people living in the community",
+        "url": "https://doi.org/10.1002/14651858.CD012424.pub2",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 30703272); 108 RCTs, 23,407 people aged 60+ (mean 76); exercise reduces fall rate by 23% (RaR 0.77, 0.71-0.83), high certainty; population is OLDER adults"
+      },
+      {
+        "title": "Springer et al. 2007, J Geriatr Phys Ther: Normative values for the unipedal stance test",
+        "url": "https://doi.org/10.1519/00139143-200704000-00003",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 19839175); n=549 healthy adults; single-leg stance time declines with age"
+      }
+    ],
+    "contraindications_safety": "Only with a fixed desk within reach and a clear floor. Skip with vertigo, neuropathy, recent falls or ankle instability. Stop with dizziness.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 3,
+    "family": "balance"
+  },
+  {
+    "id": "wall-push-hold",
+    "name": "Wall push hold (isometric, 10 s)",
+    "category": "strength-snacks",
+    "body_area": "chest / shoulders / arms",
+    "posture": "standing facing a wall",
+    "duration_reps": "3 x 10 s, breathing steadily",
+    "steps": [
+      "Stand an arm's length from a wall and place hands at shoulder height.",
+      "Lean in with elbows bent about 90 degrees and hold the position, pushing gently into the wall.",
+      "Keep the body in one line and breathe normally for 10 s.",
+      "Step back and rest 20 s; repeat 3 times."
+    ],
+    "key_cue": "Gentle push, steady breathing.",
+    "common_mistake": "Holding the breath, shrugging the shoulders, bracing at maximum effort.",
+    "evidence_level": "general guidance (unverified)",
+    "evidence_note": "NO SOURCE FOUND for this exact hold. Isometric training lowers BP only as multi-week programmes (Inder 2016: 11 RCTs, n=302, SBP -5.2 mmHg). Jones 2026: sustained isometric holds to fatigue raised DBP past 115 mmHg in most healthy young adults; the 10-s hold is app-chosen and far shorter.",
+    "sources": [
+      {
+        "title": "Jones et al. 2026, J Hypertens: Acute blood pressure responses to plank and wall sit isometric exercise in adults",
+        "url": "https://doi.org/10.1097/hjh.0000000000004191",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 41252651); n=62 healthy (mean 26.7 y); held to volitional fatigue: 97-98% reached DBP >115 mmHg after ~50 s; no adverse events"
+      },
+      {
+        "title": "Inder et al. 2016, Hypertens Res: Isometric exercise training for blood pressure management, meta-analysis",
+        "url": "https://doi.org/10.1038/hr.2015.111",
+        "accessed": "2026-10-13",
+        "verification": "abstract read via Europe PMC (PMID 26467494); 11 RCTs, n=302, training >=2 wk; SBP -5.20 mmHg (-6.08 to -4.33); these are multi-week isometric TRAINING programmes, not a desk-break dose"
+      },
+      {
+        "title": "NHS: Strength exercises",
+        "url": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read via fetch-model summary: sit-to-stand 5 reps (slower is better), mini-squats 5, calf raises 5, sideways leg lift 5 each leg, wall press-up 3 sets of 5-10; stable chair without wheels; build up slowly"
+      }
+    ],
+    "contraindications_safety": "Keep it short and breathe; never hold the breath. Check with a clinician first with high blood pressure or heart disease. Skip with shoulder/wrist pain. Stop with dizziness, headache or chest symptoms.",
+    "office_friendly": 3,
+    "verdict": "PENDING",
+    "verification_note": "PENDING",
+    "kind": "move",
+    "level": 1,
+    "family": "wall-push-hold"
+  }
+]

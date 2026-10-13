@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' file: data: blob:; connect-src 'none'">
+<title>stretchbud</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="app" class="app" hidden>
+  <section class="card" id="card" aria-live="polite">
+    <header class="top">
+      <div class="title">
+        <span class="kicker" id="kicker">Quick break</span>
+        <h1 id="exName">Hi, I'm Bud</h1>
+      </div>
+      <div class="ring" id="ring" aria-label="time left">
+        <svg viewBox="0 0 64 64" aria-hidden="true">
+          <circle class="ring-bg" cx="32" cy="32" r="27"></circle>
+          <circle class="ring-fg" id="ringFg" cx="32" cy="32" r="27"></circle>
+        </svg>
+        <span class="ring-txt" id="ringTxt"></span>
+      </div>
+    </header>
+
+    <div class="stage" id="stage">
+      <div class="bubble" id="bubble"><span id="bubbleTxt">Let's move a little.</span></div>
+      <div class="beat" id="beat"></div>
+      <div class="reps" id="reps" hidden></div>
+      <div class="dots" id="dots"></div>
+      <div class="nogl" id="nogl" hidden>
+        <div class="nogl-bud" aria-hidden="true"><i></i><i></i></div>
+        <p>3D Bud needs WebGL. Follow the steps above.</p>
+      </div>
+    </div>
+
+    <div class="why" id="why" hidden>
+      <p class="why-cue" id="whyCue"></p>
+      <p class="why-mistake" id="whyMistake"></p>
+      <ul class="why-caution" id="whyCaution"></ul>
+      <p class="why-ev">Evidence: <b id="whyEv"></b></p>
+      <p class="why-note" id="whyNote"></p>
+      <ol class="why-src" id="whySrc"></ol>
+      <p class="credit">Character: Quaternius (CC0)</p>
+    </div>
+
+    <footer class="bottom">
+      <div class="links">
+        <button class="link" id="whyBtn" type="button">Why?</button>
+        <button class="link" id="skipBtn" type="button" hidden>skip</button>
+      </div>
+      <div class="actions">
+        <button class="btn ghost" id="laterBtn" type="button" hidden>Later</button>
+        <button class="btn primary" id="doneBtn" type="button" hidden>Done &#10003;</button>
+      </div>
+    </footer>
+    <p class="safety">Stop if anything hurts. Not medical advice.</p>
+  </section>
+
+  <aside class="demo" id="demo" hidden>
+    <h2>stretchbud demo</h2>
+    <p class="credit">Character: Quaternius (CC0)</p>
+    <button class="btn primary" id="playRoutine" type="button">Play routine</button>
+    <div class="demo-list" id="demoList"></div>
+  </aside>
+</main>
+
+<section class="secondary" id="secondary" hidden>
+  <div class="secondary-card">
+    <div class="nogl-bud small" aria-hidden="true"><i></i><i></i></div>
+    <p>Bud is on your main screen</p>
+  </div>
+</section>
+
+<canvas class="confetti" id="confetti" aria-hidden="true"></canvas>
+
+<script src="vendor/three.bundle.js"></script>
+<script src="assets/bud.glb.js"></script>
+<script src="exercises.js"></script>
+<script src="poses.js"></script>
+<script src="bud.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

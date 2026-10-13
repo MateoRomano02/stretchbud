@@ -1,0 +1,348 @@
+[
+ {
+  "id": "chin-tuck",
+  "kind": "micro",
+  "area": "neck",
+  "durationSec": 35
+ },
+ {
+  "id": "neck-rotation",
+  "kind": "micro",
+  "area": "neck",
+  "durationSec": 66
+ },
+ {
+  "id": "upper-trap-side-stretch",
+  "kind": "micro",
+  "area": "neck",
+  "durationSec": 45
+ },
+ {
+  "id": "levator-scapulae-stretch",
+  "kind": "micro",
+  "area": "neck",
+  "durationSec": 45
+ },
+ {
+  "id": "shoulder-shrug-release",
+  "kind": "micro",
+  "area": "shoulders-upper-back",
+  "durationSec": 25
+ },
+ {
+  "id": "shoulder-rolls",
+  "kind": "micro",
+  "area": "shoulders-upper-back",
+  "durationSec": 30
+ },
+ {
+  "id": "scapular-squeeze",
+  "kind": "micro",
+  "area": "shoulders-upper-back",
+  "durationSec": 50
+ },
+ {
+  "id": "standing-back-extension",
+  "kind": "micro",
+  "area": "lower-back-hips",
+  "durationSec": 35
+ },
+ {
+  "id": "wrist-flexor-extensor-stretch",
+  "kind": "micro",
+  "area": "wrists-hands",
+  "durationSec": 72
+ },
+ {
+  "id": "twenty-twenty-twenty",
+  "kind": "micro",
+  "area": "eyes",
+  "durationSec": 25
+ },
+ {
+  "id": "blink-reset",
+  "kind": "micro",
+  "area": "eyes",
+  "durationSec": 20
+ },
+ {
+  "id": "chair-sit-to-stand",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 45,
+  "family": "squat",
+  "level": 1
+ },
+ {
+  "id": "desk-push-up",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 40,
+  "family": "push-up",
+  "level": 2
+ },
+ {
+  "id": "wall-sit",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 50,
+  "family": "wall-sit",
+  "level": 2
+ },
+ {
+  "id": "calf-raises",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 65,
+  "family": "calf-raise",
+  "level": 1
+ },
+ {
+  "id": "march-in-place",
+  "kind": "move",
+  "area": "cardio",
+  "durationSec": 75
+ },
+ {
+  "id": "walk-5-min",
+  "kind": "walk",
+  "area": "cardio",
+  "durationSec": 300
+ },
+ {
+  "id": "vo2-brisk-walk-intervals",
+  "kind": "vo2",
+  "area": "cardio",
+  "durationSec": 360,
+  "family": "vo2-walk",
+  "level": 1
+ },
+ {
+  "id": "vo2-fast-march",
+  "kind": "vo2",
+  "area": "cardio",
+  "durationSec": 180,
+  "family": "vo2-inplace",
+  "level": 2
+ },
+ {
+  "id": "vo2-squat-calf-burst",
+  "kind": "vo2",
+  "area": "cardio",
+  "durationSec": 150,
+  "family": "vo2-inplace",
+  "level": 3
+ },
+ {
+  "id": "reset-move-and-shake",
+  "kind": "reset",
+  "area": "reset",
+  "durationSec": 50,
+  "family": "reset-posture",
+  "level": 1
+ },
+ {
+  "id": "reset-window-gaze",
+  "kind": "reset",
+  "area": "reset",
+  "durationSec": 45,
+  "family": "reset-look",
+  "level": 1
+ },
+ {
+  "id": "reset-mini-pmr",
+  "kind": "reset",
+  "area": "reset",
+  "durationSec": 75,
+  "family": "reset-relax",
+  "level": 1
+ },
+ {
+  "id": "reset-mindful-minute",
+  "kind": "reset",
+  "area": "reset",
+  "durationSec": 60,
+  "family": "reset-attention",
+  "level": 1
+ },
+ {
+  "id": "eyes-screen-setup-check",
+  "kind": "eyes",
+  "area": "eyes",
+  "durationSec": 30,
+  "family": "eyes-setup",
+  "level": 1
+ },
+ {
+  "id": "eyes-complete-blink-pause",
+  "kind": "eyes",
+  "area": "eyes",
+  "durationSec": 30,
+  "family": "eyes-blink",
+  "level": 2
+ },
+ {
+  "id": "calf-raise-single-leg",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 80,
+  "family": "calf-raise",
+  "level": 2
+ },
+ {
+  "id": "calf-raise-slow-eccentric",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 60,
+  "family": "calf-raise",
+  "level": 2
+ },
+ {
+  "id": "calf-raise-bent-knee",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 65,
+  "family": "calf-raise",
+  "level": 2
+ },
+ {
+  "id": "mini-squat",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 35,
+  "family": "squat",
+  "level": 1
+ },
+ {
+  "id": "bodyweight-squat",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 45,
+  "family": "squat",
+  "level": 2
+ },
+ {
+  "id": "sumo-squat",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 45,
+  "family": "squat",
+  "level": 2
+ },
+ {
+  "id": "split-squat-static",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 75,
+  "family": "squat",
+  "level": 3
+ },
+ {
+  "id": "slow-tempo-squat",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 60,
+  "family": "squat",
+  "level": 3
+ },
+ {
+  "id": "squat-to-calf-raise",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 50,
+  "family": "squat",
+  "level": 3
+ },
+ {
+  "id": "wall-sit-shallow",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 45,
+  "family": "wall-sit",
+  "level": 1
+ },
+ {
+  "id": "wall-push-up",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 40,
+  "family": "push-up",
+  "level": 1
+ },
+ {
+  "id": "desk-push-up-slow",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 50,
+  "family": "push-up",
+  "level": 3
+ },
+ {
+  "id": "desk-push-up-wide",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 40,
+  "family": "push-up",
+  "level": 2
+ },
+ {
+  "id": "desk-push-up-narrow",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 40,
+  "family": "push-up",
+  "level": 2
+ },
+ {
+  "id": "standing-hip-abduction",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 60,
+  "family": "hip-abduction",
+  "level": 2
+ },
+ {
+  "id": "standing-knee-raise",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 64,
+  "family": "knee-raise",
+  "level": 1
+ },
+ {
+  "id": "single-leg-balance-support",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 68,
+  "family": "balance",
+  "level": 1
+ },
+ {
+  "id": "single-leg-balance-free",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 88,
+  "family": "balance",
+  "level": 3
+ },
+ {
+  "id": "wall-push-hold",
+  "kind": "move",
+  "area": "strength-snacks",
+  "durationSec": 45,
+  "family": "wall-push-hold",
+  "level": 1
+ },
+ {
+  "id": "cyclic-sighing",
+  "kind": "breath",
+  "area": "breath",
+  "durationSec": 60
+ },
+ {
+  "id": "drink-water",
+  "kind": "water",
+  "area": "water",
+  "durationSec": 25
+ }
+]

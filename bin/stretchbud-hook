@@ -1,0 +1,9 @@
+#!/bin/sh
+# Claude Code hook: records that a turn started/stopped. Reads the hook JSON on stdin and keeps
+# only the session id; the prompt text is never stored. Always exits 0 so Claude is never blocked.
+# usage: stretchbud-hook prompt|stop|notify|start|end
+DIR="$HOME/Library/Application Support/Stretchbud"
+mkdir -p "$DIR" 2>/dev/null
+SID=$(head -c 65536 | tr -d '\n' | sed -n 's/.*"session_id"[[:space:]]*:[[:space:]]*"\([A-Za-z0-9_-]*\)".*/\1/p')
+printf '{"t":%s,"ev":"%s","sid":"%s"}\n' "$(date +%s)" "${1:-unknown}" "$SID" >> "$DIR/claude-events.jsonl" 2>/dev/null
+exit 0

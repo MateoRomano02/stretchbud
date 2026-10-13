@@ -1,0 +1,992 @@
+[
+  {
+    "id": "chin-tuck",
+    "name": "Chin tuck (cervical retraction)",
+    "category": "neck",
+    "body_area": "neck / deep neck flexors",
+    "posture": "seated or standing",
+    "duration_reps": "5 reps x 5 s hold (CCOHS 'head glide' uses longer holds, up to 20 counts x 5-10)",
+    "steps": [
+      "Start sitting or standing tall, eyes level, ears over shoulders, shoulders relaxed.",
+      "Without tilting the head up or down, glide the head straight back horizontally as if making a double chin (about 1-2 cm of travel).",
+      "Hold the end pose for about 5 s, breathing normally; keep the chin level.",
+      "Release slowly (about 2 s) back to neutral. Repeat."
+    ],
+    "key_cue": "Slide the head back along a horizontal line, like a drawer closing.",
+    "common_mistake": "Nodding the chin down to the chest, or pushing so hard the neck strains.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Listed in NHS-trust patient leaflets and CCOHS. Guideline (Blanpied 2017) supports neck exercise for people with neck pain; no trial shows a desk-break chin tuck prevents pain.",
+    "sources": [
+      {
+        "title": "Cambridge University Hospitals NHS FT: Neck exercises and advice",
+        "url": "https://www.cuh.nhs.uk/patient-information/neck-exercises-and-advice/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; hold/rep counts not given on page"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Physiopedia: Cervical Deep Neck Flexors",
+        "url": "https://www.physio-pedia.com/Cervical_Deep_Neck_Flexors",
+        "accessed": "2026-10-13",
+        "verification": "search summary only"
+      },
+      {
+        "title": "Blanpied et al. 2017, JOSPT: Neck Pain: Revision 2017 clinical practice guideline",
+        "url": "https://www.orthopt.org/uploads/content_files/files/Neck_Pain_Revision_2017%282%29.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF returned HTTP 403; recommendations known from search summaries only (exercise, incl. scapulothoracic strengthening and neck/shoulder endurance, recommended for people WITH neck pain)"
+      }
+    ],
+    "contraindications_safety": "Stop if you feel sharp pain, dizziness, vertigo, visual changes, or pins and needles/numbness in the arms or hands. Skip if you have a recent neck injury/whiplash, known cervical instability or myelopathy, or unexplained arm symptoms; check with a clinician first.",
+    "office_friendly": 3
+  },
+  {
+    "id": "neck-rotation",
+    "name": "Gentle neck rotation (slow turn, not circles)",
+    "category": "neck",
+    "body_area": "neck / cervical rotators",
+    "posture": "seated or standing",
+    "duration_reps": "3 reps per side x 5 s hold",
+    "steps": [
+      "Sit tall, shoulders down, eyes forward.",
+      "Slowly turn the head to the left over about 3 s, only as far as comfortable, chin level.",
+      "Hold 5 s, return to centre over 3 s.",
+      "Repeat to the right; 3 per side."
+    ],
+    "key_cue": "Turn only to comfortable range; shoulders stay still.",
+    "common_mistake": "Jerking, forcing the end range, or tilting the head back while turning.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "NHS 'neck rotation' (3 per side, 5 s hold). Mayo and CCOHS include similar turns.",
+    "sources": [
+      {
+        "title": "NHS: Flexibility exercises (neck rotation, neck stretch, sideways bend, calf stretch)",
+        "url": "https://www.nhs.uk/live-well/exercise/flexibility-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      }
+    ],
+    "contraindications_safety": "Stop if you feel sharp pain, dizziness, vertigo, visual changes, or pins and needles/numbness in the arms or hands. Skip if you have a recent neck injury/whiplash, known cervical instability or myelopathy, or unexplained arm symptoms; check with a clinician first. Extra care with vertigo, vertebrobasilar issues or dizziness history.",
+    "office_friendly": 3
+  },
+  {
+    "id": "upper-trap-side-stretch",
+    "name": "Upper trapezius side-tilt stretch",
+    "category": "neck",
+    "body_area": "neck / upper trapezius",
+    "posture": "seated",
+    "duration_reps": "2 reps per side x 15-20 s hold",
+    "steps": [
+      "Sit tall; hold the seat edge with the right hand (or press the right shoulder down).",
+      "Slowly tilt the left ear toward the left shoulder over about 3 s, nose forward.",
+      "Hold 15-20 s with relaxed breathing; feel a stretch on the right side of the neck.",
+      "Return slowly; switch sides. Do not pull on the head."
+    ],
+    "key_cue": "Shoulder stays down; the head moves, not the shoulder.",
+    "common_mistake": "Shrugging the shoulder up to meet the ear, or yanking the head with the hand.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "NHS 'neck stretch' (5 s holds x3), Mayo 15-30 s holds, CUH side bend. Hold times differ between sources; 15-20 s chosen as a compromise.",
+    "sources": [
+      {
+        "title": "NHS: Flexibility exercises (neck rotation, neck stretch, sideways bend, calf stretch)",
+        "url": "https://www.nhs.uk/live-well/exercise/flexibility-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      },
+      {
+        "title": "Cambridge University Hospitals NHS FT: Neck exercises and advice",
+        "url": "https://www.cuh.nhs.uk/patient-information/neck-exercises-and-advice/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; hold/rep counts not given on page"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop if you feel sharp pain, dizziness, vertigo, visual changes, or pins and needles/numbness in the arms or hands. Skip if you have a recent neck injury/whiplash, known cervical instability or myelopathy, or unexplained arm symptoms; check with a clinician first.",
+    "office_friendly": 3
+  },
+  {
+    "id": "levator-scapulae-stretch",
+    "name": "Levator scapulae stretch",
+    "category": "neck",
+    "body_area": "neck / levator scapulae",
+    "posture": "seated",
+    "duration_reps": "2 reps per side x 15-20 s hold",
+    "steps": [
+      "Sit tall holding the chair seat edge with the right hand; turn the head about 45 degrees to the left.",
+      "Bring the chin diagonally down toward the left armpit/collarbone, nose pointing to the armpit.",
+      "Optional: rest the left hand lightly on the back of the head (weight only, no pull); lean the torso slightly left away from the held hand.",
+      "Hold 15-20 s; return slowly; switch sides."
+    ],
+    "key_cue": "Look toward the armpit; stretch is at the back/side of the neck near the shoulder blade.",
+    "common_mistake": "Pulling hard with the hand; hunching the shoulder.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "CUH leaflet describes it (does not specify hold times).",
+    "sources": [
+      {
+        "title": "Cambridge University Hospitals NHS FT: Neck exercises and advice",
+        "url": "https://www.cuh.nhs.uk/patient-information/neck-exercises-and-advice/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; hold/rep counts not given on page"
+      },
+      {
+        "title": "Blanpied et al. 2017, JOSPT: Neck Pain: Revision 2017 clinical practice guideline",
+        "url": "https://www.orthopt.org/uploads/content_files/files/Neck_Pain_Revision_2017%282%29.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF returned HTTP 403; recommendations known from search summaries only (exercise, incl. scapulothoracic strengthening and neck/shoulder endurance, recommended for people WITH neck pain)"
+      }
+    ],
+    "contraindications_safety": "Stop if you feel sharp pain, dizziness, vertigo, visual changes, or pins and needles/numbness in the arms or hands. Skip if you have a recent neck injury/whiplash, known cervical instability or myelopathy, or unexplained arm symptoms; check with a clinician first. CUH specifically says stop if dizziness occurs with the combined neck stretches.",
+    "office_friendly": 3
+  },
+  {
+    "id": "shoulder-shrug-release",
+    "name": "Shoulder shrug and drop",
+    "category": "shoulders-upper-back",
+    "body_area": "shoulders / upper trapezius",
+    "posture": "seated or standing",
+    "duration_reps": "3 reps x 3-5 s hold",
+    "steps": [
+      "Sit or stand tall, arms relaxed at sides.",
+      "Inhale and raise both shoulders toward the ears over 2 s until mild tension.",
+      "Hold 3-5 s.",
+      "Exhale and let the shoulders drop heavily, letting arms hang loose. Repeat 3 times."
+    ],
+    "key_cue": "Let go completely on the drop.",
+    "common_mistake": "Holding the breath; lifting so hard it hurts.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "CCOHS recommends 3-5 s holds, 2-3 reps for early tension.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop if pain. Low risk.",
+    "office_friendly": 3
+  },
+  {
+    "id": "shoulder-rolls",
+    "name": "Backward shoulder rolls",
+    "category": "shoulders-upper-back",
+    "body_area": "shoulders / scapular region",
+    "posture": "seated or standing",
+    "duration_reps": "5 slow backward rolls (then optionally 5 forward)",
+    "steps": [
+      "Sit or stand tall, arms relaxed.",
+      "Lift both shoulders up toward the ears.",
+      "Roll them back and then down in a large slow circle (about 3 s per roll), squeezing the blades together at the back.",
+      "Repeat 5 times, then optionally 5 forward."
+    ],
+    "key_cue": "Make big, slow, smooth circles.",
+    "common_mistake": "Fast tiny circles; pushing the head forward.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "CCOHS: 5 backward then 5 forward.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop if pain or clicking with pain. Caution after shoulder injury.",
+    "office_friendly": 3
+  },
+  {
+    "id": "scapular-squeeze",
+    "name": "Scapular squeeze (shoulder blade retraction)",
+    "category": "shoulders-upper-back",
+    "body_area": "upper back / rhomboids, mid-trapezius",
+    "posture": "seated or standing",
+    "duration_reps": "10 reps x 5 s hold",
+    "steps": [
+      "Sit tall, arms by sides or elbows bent 90 degrees, thumbs pointing outward.",
+      "Draw both shoulder blades back and slightly down, as if tucking them into back pockets, over 2 s.",
+      "Hold 5 s; chest opens; do not arch the lower back.",
+      "Release over 2 s. Repeat 10 times."
+    ],
+    "key_cue": "Think 'blades toward spine', not 'shoulders up'.",
+    "common_mistake": "Shrugging, flaring the ribs and arching the lower back.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "Blanpied 2017 recommends scapulothoracic strengthening for neck pain (patients); CCOHS chest stretch includes the squeeze. The 5 s micro-dose is not itself tested.",
+    "sources": [
+      {
+        "title": "Blanpied et al. 2017, JOSPT: Neck Pain: Revision 2017 clinical practice guideline",
+        "url": "https://www.orthopt.org/uploads/content_files/files/Neck_Pain_Revision_2017%282%29.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF returned HTTP 403; recommendations known from search summaries only (exercise, incl. scapulothoracic strengthening and neck/shoulder endurance, recommended for people WITH neck pain)"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      }
+    ],
+    "contraindications_safety": "Stop if pain. Caution after shoulder or rib injury.",
+    "office_friendly": 3
+  },
+  {
+    "id": "doorway-pec-stretch",
+    "name": "Doorway / wall chest (pec) stretch",
+    "category": "shoulders-upper-back",
+    "body_area": "chest / anterior shoulder",
+    "posture": "standing at doorway or wall corner",
+    "duration_reps": "2 reps per side x 20 s hold",
+    "steps": [
+      "Stand beside a doorframe or wall; raise the right arm to shoulder height, elbow bent 90 degrees, forearm on the frame.",
+      "Step the right foot forward slightly and gently turn the torso away to the left.",
+      "Hold 20 s; feel a stretch across the front of the right chest/shoulder; keep ribs down.",
+      "Release; switch sides. (Alternative: hands behind head, elbows back, as in Mayo/CCOHS.)"
+    ],
+    "key_cue": "Elbow at or just below shoulder height; keep the neck relaxed.",
+    "common_mistake": "Letting the lower back arch; forcing past mild stretch.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Chest stretch with hands behind head is in Mayo and CCOHS; the doorway variant is standard physio practice (not read from a fetched page).",
+    "sources": [
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with pain, tingling down the arm, or shoulder instability/recent dislocation. Do not force.",
+    "office_friendly": 3
+  },
+  {
+    "id": "chair-thoracic-extension",
+    "name": "Seated thoracic extension over chair back",
+    "category": "shoulders-upper-back",
+    "body_area": "mid back / thoracic spine",
+    "posture": "seated on chair with a back",
+    "duration_reps": "5 reps x 3-5 s hold",
+    "steps": [
+      "Sit tall on a chair with a supportive back; place hands behind the head (elbows wide) or cross arms on the chest.",
+      "Take a breath in and gently lean the upper back backward over the top of the chair back, lifting the chest.",
+      "Hold 3-5 s, looking forward or slightly up.",
+      "Return upright and exhale. Repeat; move the contact point up/down a few cm."
+    ],
+    "key_cue": "Bend at the mid back, not the lower back or neck.",
+    "common_mistake": "Throwing the head back; chair that tips or has wheels without being locked.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Thoracic mobility work is part of Blanpied 2017 (manipulation/mobility for neck pain); the self-administered chair version is common practice, not directly tested.",
+    "sources": [
+      {
+        "title": "Blanpied et al. 2017, JOSPT: Neck Pain: Revision 2017 clinical practice guideline",
+        "url": "https://www.orthopt.org/uploads/content_files/files/Neck_Pain_Revision_2017%282%29.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF returned HTTP 403; recommendations known from search summaries only (exercise, incl. scapulothoracic strengthening and neck/shoulder endurance, recommended for people WITH neck pain)"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Use a stable, non-wheeled chair. Skip with osteoporosis, recent spine fracture/surgery, or spinal stenosis aggravated by extension. Stop with pain or dizziness.",
+    "office_friendly": 2
+  },
+  {
+    "id": "wall-angels",
+    "name": "Wall angels",
+    "category": "shoulders-upper-back",
+    "body_area": "upper back / scapular stabilisers",
+    "posture": "standing against wall",
+    "duration_reps": "8 slow reps",
+    "steps": [
+      "Stand with back, hips and head close to a wall, feet 10-15 cm from the wall, knees soft.",
+      "Place arms against the wall with elbows bent 90 degrees ('goalpost').",
+      "Slowly slide the arms up the wall to overhead as far as they go without the lower back or ribs lifting off; 3 s up.",
+      "Slide back down 3 s. Repeat 8 times."
+    ],
+    "key_cue": "Keep the lower back and head touching or close to the wall.",
+    "common_mistake": "Arching the back or letting wrists/elbows leave the wall to cheat.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Standard physio posture exercise supported by scapulothoracic strengthening rationale (Blanpied 2017); no trial for the exact exercise was fetched.",
+    "sources": [
+      {
+        "title": "Blanpied et al. 2017, JOSPT: Neck Pain: Revision 2017 clinical practice guideline",
+        "url": "https://www.orthopt.org/uploads/content_files/files/Neck_Pain_Revision_2017%282%29.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF returned HTTP 403; recommendations known from search summaries only (exercise, incl. scapulothoracic strengthening and neck/shoulder endurance, recommended for people WITH neck pain)"
+      }
+    ],
+    "contraindications_safety": "Stop with shoulder pinching, pain, or tingling in the arms. Caution with shoulder impingement or thoracic outlet syndrome.",
+    "office_friendly": 2
+  },
+  {
+    "id": "standing-back-extension",
+    "name": "Standing back extension (McKenzie-style)",
+    "category": "lower-back-hips",
+    "body_area": "lower back / lumbar extension",
+    "posture": "standing",
+    "duration_reps": "5-8 reps x 2-3 s hold",
+    "steps": [
+      "Stand with feet hip-width apart, knees straight but not locked.",
+      "Place both hands on the lower back / hips, fingers pointing down.",
+      "Gently lean back over the hands, pushing the pelvis slightly forward, as far as comfortable (about 2 s).",
+      "Hold 2-3 s, then return upright. Repeat."
+    ],
+    "key_cue": "Small, smooth arc; keep the knees straight.",
+    "common_mistake": "Leaning back sharply or holding the breath.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "CCOHS 'standing stretch' (hands on lower back, lean back); McKenzie method uses standing extension for people with a directional preference. Evidence for benefit in people without pain is weak.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "StatPearls: McKenzie Back Exercises",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539720",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; extension may worsen lumbar spinal stenosis symptoms; contraindications include radicular features and instability"
+      }
+    ],
+    "contraindications_safety": "Do NOT do with lumbar spinal stenosis, spondylolisthesis, or if it provokes leg pain/pins and needles (should not spread down the leg). Stop if pain increases or radiates. Caution in late pregnancy and with osteoporosis. Do not do deep or sustained extension.",
+    "office_friendly": 3
+  },
+  {
+    "id": "standing-hip-flexor-stretch",
+    "name": "Standing hip flexor stretch (split stance)",
+    "category": "lower-back-hips",
+    "body_area": "hip flexors / front of hip",
+    "posture": "standing, hand on desk or wall",
+    "duration_reps": "2 reps per side x 20-30 s hold",
+    "steps": [
+      "Stand holding a desk or wall for balance; step the left foot back about 60-90 cm, both feet pointing forward.",
+      "Bend the right knee slightly and tuck the tailbone under (pelvis tilted back).",
+      "Gently shift the hips forward until you feel a stretch at the front of the left hip.",
+      "Hold 20-30 s, breathing; return; switch sides."
+    ],
+    "key_cue": "Tuck the tailbone; do not arch the lower back.",
+    "common_mistake": "Arching the back instead of tilting the pelvis; knee collapsing inward.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Hip flexor stretching is standard for prolonged sitting; mentioned in general stretch guides; specific desk-worker trials not retrieved.",
+    "sources": [
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Hold support for balance. Caution with knee pain, hip replacement (follow surgeon's limits), and late pregnancy/balance problems. Stop with pinching or sharp pain.",
+    "office_friendly": 3
+  },
+  {
+    "id": "seated-figure-4",
+    "name": "Seated figure-4 (piriformis/glute) stretch",
+    "category": "lower-back-hips",
+    "body_area": "glutes / hip external rotators",
+    "posture": "seated",
+    "duration_reps": "2 reps per side x 20-30 s hold",
+    "steps": [
+      "Sit tall near the front of a stable chair, both feet flat.",
+      "Cross the right ankle over the left knee; let the right knee drop outward.",
+      "Keeping the back straight, hinge forward from the hips until you feel a stretch in the right outer hip/buttock; hands on the shin or desk.",
+      "Hold 20-30 s; uncross slowly; switch sides."
+    ],
+    "key_cue": "Hinge from the hips with a flat back.",
+    "common_mistake": "Rounding the spine; forcing the knee down.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "CCOHS 'hip stretch' (seated cross-leg with gentle rotation) is the closest verified source; figure-4 variant is standard practice.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      }
+    ],
+    "contraindications_safety": "Skip or modify with hip replacement, hip pain, or knee pain. Stop with sharp pain or sciatic-type radiating symptoms. Wear clothing that allows leg crossing.",
+    "office_friendly": 2
+  },
+  {
+    "id": "standing-cat-cow",
+    "name": "Standing cat-cow at the desk",
+    "category": "lower-back-hips",
+    "body_area": "spine / flexion-extension mobility",
+    "posture": "standing, hands on desk",
+    "duration_reps": "8 slow reps",
+    "steps": [
+      "Stand facing the desk, feet hip-width, step back and rest hands on the desk edge with slightly bent knees and a flat back.",
+      "Inhale: lift the chest, gently arch the spine, tailbone up (cow), 2 s.",
+      "Exhale: round the back, tuck the chin and tailbone, push the desk away (cat), 2 s.",
+      "Repeat smoothly 8 times."
+    ],
+    "key_cue": "Move slowly with the breath; small comfortable range.",
+    "common_mistake": "Fast jerky motion; hyper-extending the neck.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "Spinal mobility breaks are common in desk-stretch guides; no specific trial retrieved. CCOHS back curl and standing stretch are related.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with pain. Avoid end-range extension with spinal stenosis. Use a stable desk.",
+    "office_friendly": 3
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": "Seated spinal twist",
+    "category": "lower-back-hips",
+    "body_area": "trunk rotation / thoracolumbar",
+    "posture": "seated",
+    "duration_reps": "2 reps per side x 15-20 s hold",
+    "steps": [
+      "Sit tall, feet flat; place the right hand on the left knee and the left hand on the chair back or behind you.",
+      "Inhale and lengthen the spine; exhale and rotate the torso to the left, leading with the chest.",
+      "Look over the left shoulder only as far as the neck is comfortable.",
+      "Hold 15-20 s with steady breathing; unwind; switch sides."
+    ],
+    "key_cue": "Turn from the ribcage and lengthen upward first.",
+    "common_mistake": "Pulling hard with the arms or twisting from the neck only.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Mayo seated stretch videos/search summaries include trunk rotation; CCOHS hip stretch includes the rotation with looking the opposite way.",
+    "sources": [
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with pain. Caution with disc herniation, osteoporosis, recent abdominal surgery; avoid deep twisting late in pregnancy.",
+    "office_friendly": 3
+  },
+  {
+    "id": "standing-hamstring-stretch",
+    "name": "Standing hamstring stretch (heel on chair)",
+    "category": "lower-back-hips",
+    "body_area": "hamstrings / posterior thigh",
+    "posture": "standing or seated edge of chair",
+    "duration_reps": "2 reps per side x 20 s hold",
+    "steps": [
+      "Seated option (Mayo): sit on the front edge of the chair, extend one leg with heel on the floor, toes up.",
+      "Keep the back straight and hinge forward from the hips until you feel the back of the thigh stretch.",
+      "Hold 20 s without bouncing; knee slightly soft.",
+      "Return; switch legs."
+    ],
+    "key_cue": "Hinge at the hips with a long spine; stretch behind the thigh, not behind the knee.",
+    "common_mistake": "Rounding the back to reach the toes; bouncing.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "Mayo seated stretches: heel on floor, bend forward at the hip; CCOHS back curl.",
+    "sources": [
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with sharp pain or nerve tingling in the leg; avoid with acute hamstring tear. Do not lock the knee.",
+    "office_friendly": 3
+  },
+  {
+    "id": "wrist-flexor-extensor-stretch",
+    "name": "Wrist flexor and extensor stretch",
+    "category": "wrists-hands",
+    "body_area": "forearm flexors / extensors",
+    "posture": "seated or standing",
+    "duration_reps": "2 reps each direction x 15-20 s hold (CCOHS: 3-5 s x3 for side bends/assisted bend)",
+    "steps": [
+      "Extend the right arm in front, palm up, elbow straight.",
+      "With the left hand, gently bend the right wrist down and back, fingers toward the floor, until a mild stretch in the forearm; hold 15-20 s.",
+      "Flip: palm down, gently bend the wrist so fingers point to the floor; hold 15-20 s.",
+      "Switch arms."
+    ],
+    "key_cue": "Elbow straight; light pressure only.",
+    "common_mistake": "Pulling hard on the fingers; bending a painful wrist.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "CCOHS 'assisted wrist bend' (3-5 s x3 each way) and wrist rotation; Mayo office stretches.",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      },
+      {
+        "title": "Mayo Clinic: workplace stretch videos (neck, upper body, seated, standing) and stretching guide",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/multimedia/neck-stretches/vid-20084697",
+        "accessed": "2026-10-13",
+        "verification": "pages returned HTTP 403; content known only from search-result summaries (15-30 s holds), not read directly"
+      }
+    ],
+    "contraindications_safety": "Stop with sharp pain, numbness or tingling. CCOHS: do not force fingers if something is painful. Caution with carpal tunnel, tendinitis, recent wrist injury or fracture.",
+    "office_friendly": 3
+  },
+  {
+    "id": "tendon-glides",
+    "name": "Tendon gliding (finger fist series)",
+    "category": "wrists-hands",
+    "body_area": "finger flexor tendons",
+    "posture": "seated, hand visible",
+    "duration_reps": "5 cycles per hand, 3 s per position",
+    "steps": [
+      "Start with the hand open, fingers straight and together.",
+      "Bend only the fingertips into a hook, then flatten the fingers into a table-top, then make a full fist; about 3 s each.",
+      "Return to open hand and spread fingers.",
+      "Repeat 5 cycles on each hand, slow and smooth."
+    ],
+    "key_cue": "Move through each position slowly, 3 s each.",
+    "common_mistake": "Forcing a tight fist through pain.",
+    "evidence_level": "clinical practice",
+    "evidence_note": "AAOS OrthoInfo carpal tunnel program (3 s holds, series of positions) - intended for people with carpal tunnel symptoms; benefit for prevention in healthy typists is unproven. CCOHS finger curl stretch is similar.",
+    "sources": [
+      {
+        "title": "AAOS OrthoInfo: Therapeutic exercise program for carpal tunnel syndrome",
+        "url": "https://www.orthoinfo.org/globalassets/pdfs/2022-therapeutic-exercise-program-for-carpal-tunnel.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF unreadable by fetch tool; tendon glide (3 s holds) and median nerve glide (3-7 s holds, 10-15 reps) details from search summary only. Intended for people with carpal tunnel syndrome"
+      },
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with sharp pain, swelling, numbness. If symptoms are persistent, see a clinician. Not for people with recent hand surgery/tendon repair unless told to by their surgeon.",
+    "office_friendly": 3
+  },
+  {
+    "id": "median-nerve-glide",
+    "name": "Median nerve glide (arm-and-wrist nerve slider)",
+    "category": "wrists-hands",
+    "body_area": "median nerve / forearm",
+    "posture": "seated",
+    "duration_reps": "5-10 reps, 3 s per position",
+    "steps": [
+      "Sit tall, make a loose fist with the right hand, thumb tucked beside it.",
+      "Straighten the fingers and thumb, then rotate and extend the wrist (palm facing forward, fingers up), then turn the palm up with thumb out, about 3 s per position.",
+      "Optionally with the free hand, gently draw the thumb back; keep the shoulder relaxed.",
+      "Return to the fist and repeat slowly 5-10 times; switch arms. Stay below any tingling."
+    ],
+    "key_cue": "Gliding, not stretching: stay below a mild sensation, and never reach tingling.",
+    "common_mistake": "Pushing into numbness/tingling or pulling hard on the thumb.",
+    "evidence_level": "weak",
+    "evidence_note": "AAOS lists median nerve glides (3-7 s holds, 10-15 reps) for carpal tunnel patients; evidence of effect is limited and mixed. Included with a gentle dose.",
+    "sources": [
+      {
+        "title": "AAOS OrthoInfo: Therapeutic exercise program for carpal tunnel syndrome",
+        "url": "https://www.orthoinfo.org/globalassets/pdfs/2022-therapeutic-exercise-program-for-carpal-tunnel.pdf",
+        "accessed": "2026-10-13",
+        "verification": "PDF unreadable by fetch tool; tendon glide (3 s holds) and median nerve glide (3-7 s holds, 10-15 reps) details from search summary only. Intended for people with carpal tunnel syndrome"
+      }
+    ],
+    "contraindications_safety": "Stop with tingling, numbness, burning or pain. Avoid if you have acute nerve symptoms, recent injury, or are pregnant with carpal tunnel and told otherwise. Seek care if hand symptoms persist.",
+    "office_friendly": 3
+  },
+  {
+    "id": "palm-press-and-finger-spread",
+    "name": "Prayer stretch and finger spreads",
+    "category": "wrists-hands",
+    "body_area": "wrists / hand intrinsics",
+    "posture": "seated, elbows on desk",
+    "duration_reps": "3 reps x 5-7 s hold, then 5 finger spreads",
+    "steps": [
+      "Sit with elbows on the desk and palms together in front of the chest.",
+      "Slowly lower the wrists toward the desk, keeping palms together, until a mild stretch; hold 5-7 s (CCOHS).",
+      "Release, shake out the hands gently.",
+      "Spread the fingers wide for 3 s, then relax; repeat 5 times."
+    ],
+    "key_cue": "Keep the palms together as the wrists lower.",
+    "common_mistake": "Forcing the wrists into pain.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "CCOHS 'palms together wrist lower' (5-7 s x3).",
+    "sources": [
+      {
+        "title": "CCOHS: Office Ergonomics - Stretching at the Workstation",
+        "url": "https://www.ccohs.ca/oshanswers/ergonomics/office/stretching.html",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Stop with pain, numbness or tingling. Caution with carpal tunnel, arthritis, recent injury.",
+    "office_friendly": 3
+  },
+  {
+    "id": "twenty-twenty-twenty",
+    "name": "20-20-20 eye break",
+    "category": "eyes",
+    "body_area": "eyes / ciliary muscle / tear film",
+    "posture": "seated",
+    "duration_reps": "20 s, every 20 min of screen time",
+    "steps": [
+      "Stop typing and lean back slightly, hands off the keyboard.",
+      "Choose an object at least 6 m (20 feet) away, for example through a window.",
+      "Look at it for 20 s; breathe and blink fully and softly several times.",
+      "Return to the screen."
+    ],
+    "key_cue": "Look far and blink, do not just stare at a distant spot.",
+    "common_mistake": "Looking at another near screen (phone) during the break.",
+    "evidence_level": "weak",
+    "evidence_note": "Rule is popularly attributed to optometrist Jeffrey Anshel (origin NOT verified in this research). AAO's computer-use page does not mention the rule. Only study found (Talens-Estarelles 2022, n=29, no control, no randomization) showed short-lived symptom reduction while reminders were active; it is not an RCT. A 'Johnson & Shi' trial could not be located and is NOT cited. Rule is low-risk and plausibly useful mainly because it prompts breaks and blinking.",
+    "sources": [
+      {
+        "title": "Talens-Estarelles et al. 2022/2023, Cont Lens Anterior Eye: The effects of breaks on digital eye strain, dry eye and binocular vision: testing the 20-20-20 rule",
+        "url": "https://research.aston.ac.uk/en/publications/the-effects-of-breaks-on-digital-eye-strain-dry-eye-and-binocular/",
+        "accessed": "2026-10-13",
+        "verification": "abstract read; n=29, single group before/after, NO control and NO randomization (it is not an RCT); symptoms improved at 2 weeks, gain not kept 1 week after reminders stopped"
+      },
+      {
+        "title": "American Academy of Ophthalmology: Computer use and eye strain",
+        "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; it does NOT mention the 20-20-20 rule; it recommends conscious blinking (about 15/min normal vs 5-7/min at computers)"
+      }
+    ],
+    "contraindications_safety": "Safe for nearly everyone. Persistent eye pain, sudden vision change, flashes or floaters: see an eye professional. Break also suits people with eyestrain from non-screen close work.",
+    "office_friendly": 3
+  },
+  {
+    "id": "eye-palming",
+    "name": "Eye palming (warm-hand relaxation)",
+    "category": "eyes",
+    "body_area": "eyes",
+    "posture": "seated, elbows on desk",
+    "duration_reps": "30-60 s",
+    "steps": [
+      "Rub the palms together for about 5 s to warm them.",
+      "Close the eyes and cup the palms over them, fingers on the forehead, without touching the eyeballs.",
+      "Rest elbows on the desk; breathe slowly for 30-60 s, seeing darkness.",
+      "Lower the hands and open the eyes slowly; blink."
+    ],
+    "key_cue": "Cup, do not press; no pressure on the eyeballs.",
+    "common_mistake": "Pressing on the eyes.",
+    "evidence_level": "weak",
+    "evidence_note": "Palming (Bates-derived) has no good trial evidence found; kept only as a relaxation/rest break. No authoritative page read confirms benefit.",
+    "sources": [
+      {
+        "title": "American Academy of Ophthalmology: Computer use and eye strain",
+        "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; it does NOT mention the 20-20-20 rule; it recommends conscious blinking (about 15/min normal vs 5-7/min at computers)"
+      }
+    ],
+    "contraindications_safety": "Never press the eyeballs. Avoid if you have glaucoma, recent eye surgery or infection, or contact lens discomfort; remove nothing needed. Stop if pain.",
+    "office_friendly": 2
+  },
+  {
+    "id": "blink-reset",
+    "name": "Blink reset (full blinks)",
+    "category": "eyes",
+    "body_area": "eyes / tear film",
+    "posture": "seated",
+    "duration_reps": "10 full blinks, about 15 s",
+    "steps": [
+      "Look away from the screen; relax the face.",
+      "Close the eyes slowly and fully over about 1 s; squeeze lightly for 1 s.",
+      "Open slowly; repeat 10 times at a relaxed pace.",
+      "Resume work, consciously blinking more often."
+    ],
+    "key_cue": "Full closures, not half blinks.",
+    "common_mistake": "Squeezing hard or rapid fluttering.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "AAO: normal ~15 blinks/min versus 5-7 at computers; advises consciously blinking. No trial of this specific exercise read.",
+    "sources": [
+      {
+        "title": "American Academy of Ophthalmology: Computer use and eye strain",
+        "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+        "accessed": "2026-10-13",
+        "verification": "page read in full; it does NOT mention the 20-20-20 rule; it recommends conscious blinking (about 15/min normal vs 5-7/min at computers)"
+      }
+    ],
+    "contraindications_safety": "Stop if eye pain or irritation. Persistent dry-eye symptoms: consult an eye professional.",
+    "office_friendly": 3
+  },
+  {
+    "id": "chair-sit-to-stand",
+    "name": "Chair sit-to-stand (squat to chair)",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes",
+    "posture": "from a stable chair",
+    "duration_reps": "8-10 reps (one set)",
+    "steps": [
+      "Sit near the front edge of a stable chair, feet hip-width, arms crossed over the chest or hovering for balance.",
+      "Lean slightly forward and stand up fully over about 2 s, squeezing the glutes at the top.",
+      "Lower slowly over 3 s until lightly touching the seat.",
+      "Repeat 8-10 times."
+    ],
+    "key_cue": "Knees track over the toes; chest up; control the way down.",
+    "common_mistake": "Collapsing onto the seat; knees caving inward; using wheels chair.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "WHO 2020 recommends muscle-strengthening activity on 2+ days/week and breaking up sedentary time (the 8-10 rep desk dose is not a tested prescription). Sit-to-stand is a validated functional movement.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      },
+      {
+        "title": "Cornell (A. Hedge): reminder software, micro-breaks, 3-S method (sit 20, stand 8, stretch 2 min)",
+        "url": "https://news.cornell.edu/node/278909",
+        "accessed": "2026-10-13",
+        "verification": "search summary only"
+      }
+    ],
+    "contraindications_safety": "Use a non-wheeled, stable chair (or wall behind it). Stop with chest pain, dizziness, knee/hip pain. Caution with knee or hip replacement, balance problems, and heart or blood-pressure conditions. Can sweat slightly; lower intensity if needed.",
+    "office_friendly": 2
+  },
+  {
+    "id": "desk-push-up",
+    "name": "Desk (incline) push-up",
+    "category": "strength-snacks",
+    "body_area": "chest / triceps / shoulders / core",
+    "posture": "standing at sturdy desk or wall",
+    "duration_reps": "8-10 reps",
+    "steps": [
+      "Place hands on the edge of a sturdy desk (or wall), slightly wider than shoulder width; step back until the body is a straight diagonal line.",
+      "Brace the core, bend the elbows to about 45 degrees from the body and lower the chest toward the desk over 2 s.",
+      "Pause briefly; press back up over 1-2 s.",
+      "Repeat 8-10 times; a wall is easier, a lower desk is harder."
+    ],
+    "key_cue": "Straight line from head to heels; elbows at about 45 degrees.",
+    "common_mistake": "Sagging hips; flaring elbows; unstable desk or wheeled furniture.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "Upper-body strengthening falls under WHO muscle-strengthening recommendations (class-level only).",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      }
+    ],
+    "contraindications_safety": "Skip or use a wall with shoulder, wrist or elbow injury or carpal tunnel flare-ups. Make sure the desk is fixed. Stop with pain. Pregnancy: use a higher incline and avoid pressure on the abdomen. Mild exertion; may cause slight sweating.",
+    "office_friendly": 1
+  },
+  {
+    "id": "wall-sit",
+    "name": "Wall sit",
+    "category": "strength-snacks",
+    "body_area": "quads / glutes / endurance",
+    "posture": "standing against wall",
+    "duration_reps": "2 x 20-30 s hold",
+    "steps": [
+      "Stand with back against a wall, feet about 60 cm from the wall, hip-width apart.",
+      "Slide down until the knees are bent about 60-90 degrees (only as low as comfortable); knees above ankles.",
+      "Hold 20-30 s, arms crossed or hanging, breathing steadily.",
+      "Slide back up; rest 20 s; repeat once."
+    ],
+    "key_cue": "Knees stacked over ankles; back flat on the wall.",
+    "common_mistake": "Holding the breath; going too deep too soon; pressing hands on thighs.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "Falls under WHO muscle-strengthening class recommendations; isometric holds are also noted as BP-sensitive in clinical practice.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      }
+    ],
+    "contraindications_safety": "Avoid with knee pain or patellofemoral issues; use a shallower angle. Stop with dizziness, chest pain or sharp pain. People with high blood pressure should avoid breath-holding isometric holds. Can cause leg burn and sweat.",
+    "office_friendly": 2
+  },
+  {
+    "id": "calf-raises",
+    "name": "Standing calf raises",
+    "category": "strength-snacks",
+    "body_area": "calves / ankle",
+    "posture": "standing, hand on desk",
+    "duration_reps": "12-15 reps",
+    "steps": [
+      "Stand with feet hip-width, a hand lightly on the desk for balance.",
+      "Rise onto the balls of the feet over 2 s, lifting the heels as high as comfortable.",
+      "Hold 1 s at the top.",
+      "Lower slowly over 3 s. Repeat 12-15 times."
+    ],
+    "key_cue": "Rise straight up; do not roll the ankles outward.",
+    "common_mistake": "Bouncing quickly; rolling ankles out.",
+    "evidence_level": "expert consensus",
+    "evidence_note": "WHO class-level muscle-strengthening; circulation benefit during sitting is plausible but not verified here. NHS calf stretch is a related flexibility exercise.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      },
+      {
+        "title": "NHS: Flexibility exercises (neck rotation, neck stretch, sideways bend, calf stretch)",
+        "url": "https://www.nhs.uk/live-well/exercise/flexibility-exercises/",
+        "accessed": "2026-10-13",
+        "verification": "page read in full"
+      }
+    ],
+    "contraindications_safety": "Hold support if balance is limited. Stop with calf cramps, Achilles pain or dizziness. Caution after Achilles injury.",
+    "office_friendly": 3
+  },
+  {
+    "id": "march-in-place",
+    "name": "Marching in place",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "standing",
+    "duration_reps": "60-90 s",
+    "steps": [
+      "Stand tall, arms bent at the sides.",
+      "March in place, lifting each knee to about hip height or comfortable height; opposite arm swings forward.",
+      "Keep a steady rhythm, about 100 steps per minute, soft landings.",
+      "Slow down gradually for the last 10 s."
+    ],
+    "key_cue": "Tall posture, quiet footsteps.",
+    "common_mistake": "Slouching; stomping loudly.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "WHO 2020: some activity is better than none; reduce sedentary time (no specific threshold). Light activity breaks improve cardiometabolic markers in trials not fetched here.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      },
+      {
+        "title": "Cornell (A. Hedge): reminder software, micro-breaks, 3-S method (sit 20, stand 8, stretch 2 min)",
+        "url": "https://news.cornell.edu/node/278909",
+        "accessed": "2026-10-13",
+        "verification": "search summary only"
+      }
+    ],
+    "contraindications_safety": "Use supportive shoes; stop with chest pain, dizziness, shortness of breath. Caution with balance issues or cardiac conditions. Quiet; mild sweat at most.",
+    "office_friendly": 2
+  },
+  {
+    "id": "walk-5-min",
+    "name": "5-minute walk",
+    "category": "cardio",
+    "body_area": "whole body / cardiovascular",
+    "posture": "walking",
+    "duration_reps": "5 min",
+    "steps": [
+      "Stand up and leave the desk, taking your phone or nothing.",
+      "Walk at a comfortable brisk pace, around the office, outside or up/down a corridor.",
+      "Keep shoulders loose, arms swinging, chin level.",
+      "Return and sit with a relaxed posture."
+    ],
+    "key_cue": "Comfortable, brisk pace where you can still talk.",
+    "common_mistake": "Staring at a phone while walking.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "WHO 2020 supports reducing sedentary behaviour and 150-300 min/wk of moderate activity; Cornell's 3-S plan advocates regular standing/moving breaks.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      },
+      {
+        "title": "Cornell (A. Hedge): reminder software, micro-breaks, 3-S method (sit 20, stand 8, stretch 2 min)",
+        "url": "https://news.cornell.edu/node/278909",
+        "accessed": "2026-10-13",
+        "verification": "search summary only"
+      }
+    ],
+    "contraindications_safety": "Stop with chest pain, dizziness or breathlessness; people with cardiovascular, balance, or joint conditions should adjust. Choose safe surfaces.",
+    "office_friendly": 3
+  },
+  {
+    "id": "stair-climb",
+    "name": "Stair climbing",
+    "category": "cardio",
+    "body_area": "legs / cardiovascular",
+    "posture": "stairs",
+    "duration_reps": "2-5 min (e.g., 2-3 flights up and down)",
+    "steps": [
+      "Go to a stairwell; hold the handrail.",
+      "Climb at a steady pace, placing the whole foot on each step.",
+      "Descend carefully, one step at a time, hand on the rail.",
+      "Repeat for 2-5 min; slow down gently."
+    ],
+    "key_cue": "Whole foot on each step; use the rail.",
+    "common_mistake": "Rushing or skipping steps; looking at a phone on stairs.",
+    "evidence_level": "guideline-backed",
+    "evidence_note": "Counts toward moderate-to-vigorous activity in WHO 2020 (class level); micro-dose benefit not fetched here.",
+    "sources": [
+      {
+        "title": "Bull et al. 2020, BJSM: WHO guidelines on physical activity and sedentary behaviour",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/",
+        "accessed": "2026-10-13",
+        "verification": "search summary only; 150-300 min/wk moderate activity, muscle strengthening on 2+ days/wk, limit sedentary time (no numeric threshold)"
+      }
+    ],
+    "contraindications_safety": "Avoid with knee/hip pain, balance problems, vertigo or cardiac conditions; stop with chest pain or dizziness. Falls risk on stairs. Will raise heart rate and may cause sweat (office-friendly 1).",
+    "office_friendly": 1
+  }
+]

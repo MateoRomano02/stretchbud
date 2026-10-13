@@ -1,0 +1,7 @@
+KICKOFF.md
+.DS_Store
+build/
+research/scratch/
+node_modules/
+*.o
+.gstack/
