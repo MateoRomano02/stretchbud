@@ -48,10 +48,10 @@ final class Agent: NSObject, NSApplicationDelegate {
         DistributedNotificationCenter.default().addObserver(forName: .init("dev.stretchbud.now"), object: nil, queue: .main) { [weak self] _ in
             self?.breakNow()
         }
-        // `stretchbud pause|resume` wrote state.json; pick the new pause up from there.
-        DistributedNotificationCenter.default().addObserver(forName: .init("dev.stretchbud.pause"), object: nil, queue: .main) { [weak self] _ in
+        // `stretchbud pause|resume`: the notification's object is the end time (epoch seconds) or "resume".
+        DistributedNotificationCenter.default().addObserver(forName: .init("dev.stretchbud.pause"), object: nil, queue: .main) { [weak self] n in
             guard let self else { return }
-            let until = self.store.loadState()?.scheduler.pausedUntil
+            let until = (n.object as? String).flatMap(Double.init).map { Date(timeIntervalSince1970: $0) }
             self.overlay.close(.ended)
             self.pause(until.map { $0 > Date() ? $0 : nil } ?? nil)
         }

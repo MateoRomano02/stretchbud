@@ -28,6 +28,8 @@ cat > "$PLIST" <<PL
 PL
 
 launchctl bootout "gui/$(id -u)/$LABEL" 2>/dev/null || true
+# Installing means "turn it on": clear a previous `launchctl disable`, which survives logins.
+launchctl enable "gui/$(id -u)/$LABEL"
 launchctl bootstrap "gui/$(id -u)" "$PLIST"
 echo "stretchbud installed in $PREFIX and running (menu bar: 🌱)."
 echo "Claude Code integration (optional): make claude-hooks"

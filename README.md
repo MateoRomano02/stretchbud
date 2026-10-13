@@ -13,7 +13,7 @@ Most break apps fire on a timer and show a line of text. People click "skip" wit
 - **It picks the moment.** A break becomes due on a timer, then waits up to 5 minutes for a breakpoint: you switched apps, you paused for 20 seconds, or you are waiting on a Claude Code turn. If you stepped away for 5 minutes, that counts as a break and nothing pops up.
 - **It never interrupts a call.** If any app is using the camera or microphone, breaks wait.
 - **It shows the movement.** A human-proportioned figure does the exercise with the working joints highlighted, from the camera angle where the movement reads best.
-- **The content is sourced.** Every exercise has its steps, a caution list and an honest evidence label. Anything we could not verify against a real source is not in the app.
+- **The content is sourced.** Every exercise has its steps, a caution list and an honest evidence label. Each one is backed by a source or is a labelled variation of a sourced exercise; anything else is not in the app.
 
 ## What a day looks like
 

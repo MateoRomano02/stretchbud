@@ -10,8 +10,8 @@ func webDirectory() -> URL {
     return candidates.first { FileManager.default.fileExists(atPath: $0.appendingPathComponent("index.html").path) } ?? candidates[0]
 }
 
-func post(_ name: String) {
-    DistributedNotificationCenter.default().postNotificationName(.init(name), object: nil, userInfo: nil, deliverImmediately: true)
+func post(_ name: String, object: String? = nil) {
+    DistributedNotificationCenter.default().postNotificationName(.init(name), object: object, userInfo: nil, deliverImmediately: true)
 }
 
 let args = Array(CommandLine.arguments.dropFirst())
@@ -34,7 +34,9 @@ case "pause", "resume":
     }
     store.writePause(until: until)
     store.log(until == nil ? "resume" : "pause", ["from": "cli"])
-    post("dev.stretchbud.pause")
+    // The end time travels in the notification: a running agent rewrites state.json every tick,
+    // so the file alone could be overwritten before the agent reads it.
+    post("dev.stretchbud.pause", object: until.map { String($0.timeIntervalSince1970) } ?? "resume")
     if let u = until {
         print(u == .distantFuture ? "paused until you run: stretchbud resume" : "paused until \(DateFormatter.localizedString(from: u, dateStyle: .short, timeStyle: .short))")
     } else {
